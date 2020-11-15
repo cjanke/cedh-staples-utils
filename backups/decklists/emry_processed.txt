@@ -1,0 +1,127 @@
+STAPLES:
+2 Ancient Tomb
+2 Arcane Signet
+2 Back to Basics
+1 Brainstorm
+2 Cephalid Coliseum
+2 Chain of Vapor
+2 Chrome Mox
+1 Copy Artifact
+1 Counterspell
+1 Cyclonic Rift
+2 Delay
+2 Dispel
+2 Dramatic Reversal
+2 Fabricate
+2 Fierce Guardianship
+1 Flooded Strand
+2 Flusterstorm
+2 Force of Negation
+2 Force of Will
+2 Gitaxian Probe
+2 Grim Monolith
+2 Intuition
+2 Inventors' Fair
+2 Isochron Scepter
+2 Lotus Petal
+2 Mana Crypt
+2 Mana Drain
+2 Mana Vault
+2 Mental Misstep
+2 Merchant Scroll
+1 Misty Rainforest
+2 Mox Amber
+2 Mox Diamond
+2 Mox Opal
+2 Muddle the Mixture
+2 Mystic Remora
+1 Mystic Sanctuary
+2 Mystical Tutor
+1 Narset, Parter of Veils
+1 Narset's Reversal
+2 Pact of Negation
+1 Polluted Delta
+2 Ponder
+1 Preordain
+1 Prismatic Vista
+2 Rhystic Study
+1 Scalding Tarn
+1 Sensei's Divining Top
+2 Sol Ring
+2 Swan Song
+2 Timetwister
+2 Transmute Artifact
+2 Whir of Invention
+2 Windfall
+1 Winds of Rebuke
+1 Brain Freeze
+1 Emergence Zone
+1 Frantic Search
+1 Gemstone Caverns
+1 Gilded Drake
+1 Lion's Eye Diamond
+1 Phantasmal Image
+1 Spell Pierce
+1 The Tabernacle at Pendrell Vale
+
+NON_STAPLES:
+1 Aether Spellbomb
+1 Blink of an Eye
+1 Blinkmoth Nexus
+2 Chakram Retriever
+1 Chromatic Sphere
+1 Chromatic Star
+1 Codex Shredder
+2 Conjurer's Bauble
+2 Emry, Lurker of the Loch
+1 Everflowing Chalice
+1 Fact or Fiction
+1 Helm of Awakening
+1 Inkmoth Nexus
+1 Ipnu Rivulet
+28 Island
+1 Karn, the Great Creator
+2 Minamo, School at Water's Edge
+1 Mind Stone
+2 Mirran Spy
+2 Mishra's Bauble
+1 Mishra's Factory
+1 Mutavault
+1 Mystic Forge
+1 Paradoxical Outcome
+1 Personal Tutor
+1 Polymorph
+1 Proteus Staff
+1 Reality Shift
+2 Seat of the Synod
+2 Thought Scour
+1 Tolaria West
+1 Tormod's Crypt
+2 Urza's Bauble
+1 Zur's Weirding
+1 Basalt Monolith
+1 Bazaar of Baghdad
+1 City of Traitors
+1 Conqueror's Flail
+1 Darksteel Citadel
+1 Defense Grid
+1 Drift of Phantasms
+1 Fatestitcher
+1 Hope of Ghirapur
+1 Hullbreacher
+1 Jeweled Amulet
+1 Lithoform Engine
+1 Memory Jar
+1 Mesmeric Orb
+1 Miscast
+1 Misdirection
+1 Mishra's Workshop
+1 Reshape
+1 Sea Gate Restoration
+1 Shimmer Myr
+1 Staff of Domination
+1 Tezzeret the Seeker
+1 Thousand-Year Elixir
+1 Tribute Mage
+1 Trophy Mage
+1 Vedalken Archmage

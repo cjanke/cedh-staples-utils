@@ -1,0 +1,143 @@
+STAPLES:
+1 Ancient Tomb
+1 Arcane Signet
+3 Avacyn's Pilgrim
+3 Birds of Paradise
+3 Bloom Tender
+3 Breeding Pool
+3 Carpet of Flowers
+3 Cavern of Souls
+1 Chrome Mox
+1 City of Brass
+3 Command Tower
+3 Destiny Spinner
+1 Dramatic Reversal
+3 Earthcraft
+3 Eladamri's Call
+3 Elvish Mystic
+3 Enlightened Tutor
+3 Eternal Witness
+3 Fierce Guardianship
+3 Finale of Devastation
+3 Flooded Strand
+1 Force of Negation
+1 Force of Vigor
+3 Force of Will
+3 Fyndhorn Elves
+3 Gaea's Cradle
+1 Gemstone Caverns
+3 Gilded Drake
+1 Grand Abolisher
+1 Grim Monolith
+3 Hallowed Fountain
+1 Horizon Canopy
+1 Isochron Scepter
+3 Llanowar Elves
+1 Mana Confluence
+3 Mana Crypt
+3 Mana Drain
+1 Mana Vault
+3 Mental Misstep
+3 Misty Rainforest
+3 Mox Diamond
+1 Mox Opal
+3 Mystic Remora
+1 Mystical Tutor
+3 Noble Hierarch
+3 Noxious Revival
+1 Pact of Negation
+1 Phantasmal Image
+3 Priest of Titania
+3 Prismatic Vista
+2 Rhystic Study
+3 Savannah
+3 Silence
+3 Sol Ring
+3 Spellseeker
+3 Sylvan Library
+3 Temple Garden
+3 Timetwister
+3 Tropical Island
+3 Tundra
+3 Veil of Summer
+3 Verdant Catacombs
+1 Waterlogged Grove
+3 Windswept Heath
+3 Wooded Foothills
+3 Worldly Tutor
+2 Arbor Elf
+2 Arid Mesa
+2 Aven Mindcensor
+2 Boreal Druid
+1 Chain of Vapor
+2 Chord of Calling
+2 Collector Ouphe
+2 Counterspell
+2 Crop Rotation
+2 Dovin's Veto
+2 Drannith Magistrate
+2 Eldritch Evolution
+2 Flusterstorm
+2 Homeward Path
+2 Linvala, Keeper of Silence
+2 Marsh Flats
+2 Nature's Claim
+2 Negate
+2 Oakhame Adversary
+2 Polluted Delta
+2 Reclamation Sage
+2 Scalding Tarn
+2 Swan Song
+2 Swords to Plowshares
+1 Winds of Rebuke
+1 Exotic Orchard
+1 Forbidden Orchard
+1 Rest in Peace
+
+NON_STAPLES:
+3 Aluren
+1 Bazaar Trademage
+1 Bountiful Promenade
+1 Champion of Wits
+3 Chulane, Teller of Tales
+3 Cloudstone Curio
+1 Concordant Crossroads
+1 Dream Stalker
+3 Faeburrow Elder
+9 Forest
+1 Generous Patron
+1 Glimpse of Nature
+1 Idyllic Tutor
+3 Intruder Alarm
+8 Island
+1 Kiora's Follower
+1 Kor Skyfisher
+1 Lavinia, Azorius Renegade
+3 Lotus Cobra
+3 Mana Breach
+1 Manglehorn
+1 Man-o'-War
+3 Oboro, Palace in the Clouds
+3 Plains
+3 Ranger-Captain of Eos
+3 Recruiter of the Guard
+3 Shrieking Drake
+1 Stonecloaker
+1 Tribute Mage
+1 Uro, Titan of Nature's Wrath
+1 Village Bell-Ringer
+1 Weathered Wayfarer
+1 Brazen Borrower
+2 Deafening Silence
+2 Flooded Grove
+2 Joraga Treespeaker
+1 Mirror Entity
+1 Quirion Ranger
+2 Sylvan Tutor
+2 Whitemane Lion
+1 Wirewood Symbiote
+1 Yisan, the Wanderer Bard
+1 Brazen Borrower / Petty Theft
+1 Oko, Thief of Crowns
+1 Overburden
+1 Stony Silence

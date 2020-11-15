@@ -1,0 +1,168 @@
+1TAPLES:
+1 Ad Nauseam
+1 Ancient Tomb
+1 Arcane Signet
+1 Bloodstained Mire
+1 Brainstorm
+1 Cabal Ritual
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Culling the Weak
+1 Dark Confidant
+1 Dark Ritual
+1 Delay
+1 Demonic Consultation
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dispel
+1 Dramatic Reversal
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Will
+1 Gemstone Caverns
+1 Gilded Drake
+1 Gitaxian Probe
+1 Imperial Seal
+1 Laboratory Maniac
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Misty Rainforest
+1 Morphic Pool
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Necropotence
+1 Opt
+1 Pact of Negation
+1 Phantasmal Image
+1 Plunge into Darkness
+1 Polluted Delta
+1 Ponder
+1 Praetor's Grasp
+1 Preordain
+1 Prismatic Vista
+1 Rain of Filth
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Sol Ring
+1 Swan Song
+1 Tainted Pact
+1 Talisman of Dominance
+1 Thassa's Oracle
+1 Timetwister
+1 Underground River
+1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Watery Grave
+1 Windfall
+1 Winds of Rebuke
+1 Wishclaw Talisman
+1 Yawgmoth's Will
+1 Back to Basics
+1 Cursed Totem
+1 Cyclonic Rift
+1 Force of Negation
+1 Grafdigger's Cage
+1 Intuition
+1 Mystic Sanctuary
+1 Reanimate
+1 Spell Pierce
+1 Phyrexian Tower
+1 Cavern of Souls
+1 Muddle the Mixture
+1 Null Rod
+1 Tarnished Citadel
+1 Urborg, Tomb of Yawgmoth
+1ON_STAPLES:
+1 Changeling Outcast
+1 Darkslick Shores
+1 Doomsday
+1 Faerie Seer
+1 Hope of Ghirapur
+10 Island
+1 Lim-Dûl's Vault
+1 Memnite
+1 Minamo, School at Water's Edge
+1 Miscast
+1 Mothdust Changeling
+1 Oboro, Palace in the Clouds
+1 Opposition Agent
+1 Ornithopter
+1 Peer into the Abyss
+1 Phyrexian Walker
+1 River of Tears
+1 Sakashima's Student
+1 Shizo, Death's Storehouse
+1 Slaughter Pact
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Spectral Sailor
+1 Stern Dismissal
+1 Sunken Ruins
+1 Swamp
+1 Universal Automaton
+1 Yuriko, the Tiger's Shadow
+1 Abjure
+1 Blinkmoth Infusion
+1 Capture of Jingzhou
+1 Commandeer
+1 Deadly Rollick
+1 Dismember
+1 Fallen Shinobi
+1 Gingerbrute
+1 Ingenious Infiltrator
+1 Misdirection
+1 Mistblade Shinobi
+1 Mist-Syndicate Naga
+1 Mutavault
+1 Mystical Dispute
+1 Ninja of the Deep Hours
+1 Scheming Symmetry
+1 Scroll Rack
+1 Sidisi's Faithful
+1 Skullsnatcher
+1 Snapcaster Mage
+1 Snuff Out
+1 Spellstutter Sprite
+1 Submerge
+1 Temporal Manipulation
+1 Temporal Mastery
+1 Temporal Trespass
+1 Tetsuko Umezawa, Fugitive
+1 Time Warp
+1 Wingcrafter
+1 Agadeem's Awakening / Agadeem, the Undercrypt
+1 Chains of Mephistopheles
+1 Contagion
+1 Draco
+1 Emrakul, the Promised End
+1 Feed the Swarm
+1 Fourth Bridge Prowler
+1 Fungal Infection
+1 Knowledge Exploitation
+1 Mana Maze
+1 Overwhelmed Apprentice
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Slither Blade
+1 Thieves' Guild Enforcer
+1 Zulaport Duelist
+1 Clearwater Pathway / Murkwater Pathway
+1 Cover of Darkness
+1 Gush
+1 Liliana's Triumph
+1 Mausoleum Wanderer
+1 Street Wraith
+1 Village Rites

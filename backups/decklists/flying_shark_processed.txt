@@ -1,0 +1,141 @@
+STAPLES:
+4 Ancient Tomb
+4 Arcane Signet
+4 Arid Mesa
+3 Back to Basics
+3 Blood Moon
+4 Bloodstained Mire
+4 Brain Freeze
+4 Brainstorm
+4 Chain of Vapor
+4 Chrome Mox
+4 Command Tower
+3 Cursed Totem
+3 Cyclonic Rift
+4 Deflecting Swat
+4 Delay
+1 Dig Through Time
+4 Dispel
+4 Dockside Extortionist
+4 Dovin's Veto
+4 Drannith Magistrate
+4 Enlightened Tutor
+4 Fellwar Stone
+4 Fierce Guardianship
+4 Flooded Strand
+4 Flusterstorm
+3 Force of Negation
+4 Force of Will
+4 Frantic Search
+4 Gamble
+4 Gilded Drake
+4 Gitaxian Probe
+4 Hallowed Fountain
+4 Intuition
+4 Lion's Eye Diamond
+4 Mana Crypt
+4 Mana Vault
+4 Marsh Flats
+4 Mental Misstep
+4 Misty Rainforest
+4 Mox Diamond
+4 Mystic Remora
+4 Mystical Tutor
+4 Narset, Parter of Veils
+4 Plateau
+4 Polluted Delta
+4 Ponder
+4 Preordain
+3 Prismatic Vista
+3 Pyroblast
+4 Red Elemental Blast
+4 Rhystic Study
+4 Scalding Tarn
+1 Sea of Clouds
+4 Sensei's Divining Top
+4 Sevinne's Reclamation
+4 Silence
+4 Sol Ring
+4 Steam Vents
+4 Swan Song
+4 Talisman of Creativity
+4 Talisman of Progress
+4 Timetwister
+4 Tundra
+4 Underworld Breach
+4 Volcanic Island
+4 Wheel of Fortune
+4 Windfall
+1 Winds of Rebuke
+4 Windswept Heath
+4 Wooded Foothills
+3 Cephalid Coliseum
+1 City of Brass
+1 Gemstone Caverns
+1 Homeward Path
+3 Lotus Petal
+3 Mana Drain
+2 Mox Opal
+3 Muddle the Mixture
+3 Pact of Negation
+1 Phantasmal Image
+3 Smothering Tithe
+2 Aven Mindcensor
+2 Counterspell
+2 Grim Monolith
+2 Swords to Plowshares
+1 Mana Confluence
+1 Copy Artifact
+1 Grand Abolisher
+
+NON_STAPLES:
+2 Bazaar of Baghdad
+4 Brallin, Skyshark Rider
+3 Careful Study
+4 Curiosity
+4 Faithless Looting
+4 Ghostly Pilferer
+3 Glint-Horn Buccaneer
+1 Izzet Charm
+4 Izzet Signet
+3 Magus of the Moon
+4 Ophidian Eye
+4 Pyroclasm
+3 Rolling Earthquake
+2 Sacred Foundry
+4 Shabraz, the Skyshark
+14 Snow-Covered Island
+3 Snow-Covered Mountain
+3 Snow-Covered Plains
+3 Tandem Lookout
+1 Teferi, Master of Time
+1 Tireless Tribe
+3 Verity Circle
+3 Wear / Tear
+1 Alms Collector
+1 Blink of an Eye
+1 Hullbreacher
+2 Idyllic Tutor
+1 Into the Roil
+11 Island
+1 Jeweled Lotus
+4 Mountain
+1 Phyrexian Metamorph
+4 Plains
+1 Sweltering Suns
+1 Wheel of Misfortune
+1 Ash Barrens
+1 Azorius Signet
+1 Miscast
+1 Stranglehold
+1 Angel's Grace
+1 Argivian Find
+1 Burning Inquiry
+1 Ideas Unbound
+1 Imperial Recruiter
+1 Misdirection
+1 Mystic Subdual
+1 Open the Armory
+1 Steal Enchantment
+1 Suppression Field
+1 Volcanic Fallout

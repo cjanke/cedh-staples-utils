@@ -1,0 +1,138 @@
+STAPLES:
+2 Abrupt Decay
+2 Animate Dead
+2 Arid Mesa
+2 Assassin's Trophy
+2 Avacyn's Pilgrim
+2 Aven Mindcensor
+2 Bayou
+2 Birds of Paradise
+2 Bloodstained Mire
+1 Bloom Tender
+2 Carpet of Flowers
+1 Cavern of Souls
+1 Chord of Calling
+2 City of Brass
+2 Collector Ouphe
+2 Command Tower
+1 Crop Rotation
+2 Dark Confidant
+2 Deathrite Shaman
+2 Demonic Tutor
+2 Diabolic Intent
+2 Drannith Magistrate
+2 Eladamri's Call
+1 Eldritch Evolution
+2 Elves of Deep Shadow
+2 Elvish Mystic
+2 Enlightened Tutor
+2 Entomb
+2 Eternal Witness
+1 Exotic Orchard
+2 Finale of Devastation
+2 Flooded Strand
+2 Forbidden Orchard
+2 Fyndhorn Elves
+2 Gaea's Cradle
+2 Godless Shrine
+2 Grand Abolisher
+2 Horizon Canopy
+2 Imperial Seal
+2 Linvala, Keeper of Silence
+2 Lion's Eye Diamond
+2 Llanowar Elves
+1 Llanowar Wastes
+2 Mana Confluence
+2 Mana Crypt
+2 Marsh Flats
+2 Misty Rainforest
+2 Necropotence
+2 Nurturing Peatland
+2 Oakhame Adversary
+2 Overgrown Tomb
+2 Polluted Delta
+1 Priest of Titania
+2 Razaketh, the Foulblooded
+2 Reanimate
+2 Savannah
+2 Scrubland
+2 Silence
+2 Sol Ring
+2 Survival of the Fittest
+2 Swords to Plowshares
+2 Sylvan Library
+1 Sylvan Safekeeper
+1 Tarnished Citadel
+2 Temple Garden
+2 Vampiric Tutor
+2 Veil of Summer
+2 Verdant Catacombs
+1 Wild Growth
+2 Windswept Heath
+2 Wooded Foothills
+1 Worldly Tutor
+1 Ancient Tomb
+1 Arbor Elf
+1 Chrome Mox
+1 Dance of the Dead
+1 Destiny Spinner
+1 Earthcraft
+1 Mox Diamond
+1 Necromancy
+1 Noxious Revival
+1 Null Rod
+1 Prismatic Vista
+1 Reap
+1 Smothering Tithe
+
+NON_STAPLES:
+1 Anafenza, the Foremost
+1 Archon of Emeria
+1 Autumn's Veil
+1 Bountiful Promenade
+1 Brought Back
+1 Children of Korlis
+1 Defense of the Heart
+1 Eidolon of Rhetoric
+2 Elesh Norn, Grand Cenobite
+2 Ethersworn Canonist
+1 Fauna Shaman
+1 Fetid Heath
+1 Fiend Artisan
+1 Final Parting
+1 Grim Tutor
+1 Hushbringer
+2 Life / Death
+1 Loyal Retainers
+1 Ohran Frostfang
+1 Opposition Agent
+1 Ranger-Captain of Eos
+2 Silent Clearing
+1 Skyclave Apparition
+1 Tendershoot Dryad
+1 Thalia, Guardian of Thraben
+2 Tymna the Weaver
+1 Ulvenwald Tracker
+1 Undergrowth Stadium
+1 Blind Obedience
+1 Blood Artist
+1 Brushland
+1 Buried Alive
+1 Deafening Silence
+1 Forest
+1 Good-Fortune Unicorn
+1 Kambal, Consul of Allocation
+1 Karmic Guide
+1 Kenrith's Transformation
+1 Leonin Relic-Warder
+1 Leyline of the Void
+1 Nikara, Lair Scavenger
+1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Squirrel Nest
+1 Stony Silence
+1 Swamp
+1 Vilis, Broker of Blood
+1 Viscera Seer
+1 Yannik, Scavenging Sentinel
+1 Yawgmoth, Thran Physician

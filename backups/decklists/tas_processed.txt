@@ -1,0 +1,113 @@
+STAPLES:
+2 Abrupt Decay
+2 Ad Nauseam
+2 Ancient Tomb
+2 Arbor Elf
+2 Arcane Signet
+2 Assassin's Trophy
+2 Bayou
+2 Birds of Paradise
+2 Bloodstained Mire
+2 Brainstorm
+2 Breeding Pool
+2 Carpet of Flowers
+2 Chain of Vapor
+2 Chrome Mox
+2 City of Brass
+2 Command Tower
+2 Dark Confidant
+2 Dark Ritual
+2 Deathrite Shaman
+2 Delay
+2 Demonic Consultation
+2 Demonic Tutor
+2 Diabolic Intent
+2 Dimir Signet
+2 Dispel
+2 Dramatic Reversal
+2 Elves of Deep Shadow
+2 Exotic Orchard
+2 Fellwar Stone
+2 Fierce Guardianship
+2 Flooded Strand
+2 Flusterstorm
+2 Forbidden Orchard
+2 Force of Negation
+2 Force of Will
+2 Gilded Drake
+2 Gitaxian Probe
+2 Grim Monolith
+2 Imperial Seal
+2 Isochron Scepter
+1 Jace, Wielder of Mysteries
+1 Llanowar Wastes
+2 Lotus Petal
+2 Mana Confluence
+2 Mana Crypt
+2 Mana Drain
+2 Mana Vault
+2 Marsh Flats
+2 Mental Misstep
+2 Misty Rainforest
+2 Morphic Pool
+2 Mox Diamond
+2 Muddle the Mixture
+2 Mystic Remora
+2 Mystical Tutor
+2 Necropotence
+2 Neoform
+2 Notion Thief
+2 Noxious Revival
+2 Overgrown Tomb
+2 Pact of Negation
+2 Polluted Delta
+2 Ponder
+2 Praetor's Grasp
+2 Preordain
+2 Rhystic Study
+2 Scalding Tarn
+2 Sol Ring
+2 Swan Song
+2 Sylvan Library
+2 Tainted Pact
+2 Talisman of Curiosity
+2 Talisman of Dominance
+2 Thassa's Oracle
+2 Timetwister
+2 Tropical Island
+2 Underground River
+2 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+2 Vampiric Tutor
+2 Veil of Summer
+2 Verdant Catacombs
+2 Waterlogged Grove
+2 Watery Grave
+2 Windswept Heath
+2 Wooded Foothills
+2 Yavimaya Coast
+2 Yawgmoth's Will
+1 Eldritch Evolution
+1 Gemstone Caverns
+1 Narset, Parter of Veils
+1 Nurturing Peatland
+1 Tarnished Citadel
+
+NON_STAPLES:
+2 Forest
+1 Hullbreacher
+2 Island
+2 Lim-Dûl's Vault
+2 Miscast
+2 Nezahal, Primal Tide
+1 Oko, Thief of Crowns
+2 Opposition Agent
+2 Simic Signet
+2 Stubborn Denial
+1 Sunken Ruins
+2 Tasigur, the Golden Fang
+1 Seedborn Muse
+1 Teferi, Master of Time
+1 Jeweled Lotus
+1 Rejuvenating Springs
+1 Undergrowth Stadium

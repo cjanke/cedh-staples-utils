@@ -1,0 +1,134 @@
+1TAPLES:
+1 Ad Nauseam
+1 Ancient Tomb
+1 Animate Dead
+1 Arcane Signet
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cabal Ritual
+1 Cavern of Souls
+1 Chrome Mox
+1 Command Tower
+1 Culling the Weak
+1 Dance of the Dead
+1 Dark Ritual
+1 Deflecting Swat
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dockside Extortionist
+1 Emergence Zone
+1 Enlightened Tutor
+1 Entomb
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fire Covenant
+1 Flooded Strand
+1 Forbidden Orchard
+1 Gamble
+1 Gemstone Caverns
+1 Godless Shrine
+1 Grand Abolisher
+1 Grim Monolith
+1 Imperial Seal
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Luxury Suite
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Vault
+1 Marsh Flats
+1 Mox Diamond
+1 Mox Opal
+1 Necromancy
+1 Necropotence
+1 Plateau
+1 Plunge into Darkness
+1 Polluted Delta
+1 Praetor's Grasp
+1 Prismatic Vista
+1 Pyroblast
+1 Rain of Filth
+1 Razaketh, the Foulblooded
+1 Reanimate
+1 Red Elemental Blast
+1 Scalding Tarn
+1 Scrubland
+1 Sevinne's Reclamation
+1 Silence
+1 Simian Spirit Guide
+1 Sol Ring
+1 Tainted Pact
+1 Underworld Breach
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Wheel of Fortune
+1 Windswept Heath
+1 Wishclaw Talisman
+1 Wooded Foothills
+1 Aven Mindcensor
+1 Blood Moon
+1 City of Brass
+1 Dark Confidant
+1 Linvala, Keeper of Silence
+1 Sensei's Divining Top
+1 Swords to Plowshares
+1 Tarnished Citadel
+1 Toxic Deluge
+1ON_STAPLES:
+1 Burnt Offering
+1 Children of Korlis
+1 Doom Whisperer
+1 Dualcaster Mage
+1 Ephemerate
+1 Faithless Looting
+1 Final Fortune
+1 Kaalia of the Vast
+1 Kuldotha Rebirth
+1 Leonin Relic-Warder
+1 Lurrus of the Dream-Den
+1 Mausoleum Secrets
+1 Mayhem Devil
+1 Orim's Chant
+1 Peer into the Abyss
+1 Rakdos Signet
+1 Ranger-Captain of Eos
+1 Rite of Flame
+1 Rune-Scarred Demon
+1 Sacred Foundry
+1 Silent Clearing
+1 Skirk Prospector
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Spire of Industry
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Thoughtseize
+1 Tithe Taker
+1 Twinflame
+1 Vilis, Broker of Blood
+1 Wear / Tear
+1 Abeyance
+1 Bogardan Hellkite
+1 Burnout
+1 Corpse Dance
+1 Cut / Ribbons
+1 Dragon Tempest
+1 Exhume
+1 Graven Cairns
+1 Hall of the Bandit Lord
+1 Hushbringer
+1 Kozilek, Butcher of Truth
+1 Loyal Retainers
+1 Magus of the Moon
+1 Night's Whisper
+1 Phyrexian Reclamation
+1 Ransack the Lab
+1 Scroll Rack
+1 Searing Touch
+1 Sulfurous Springs
+1 Swamp
+1 Thrill of Possibility
+1 Winds of Change
+1 Worldgorger Dragon

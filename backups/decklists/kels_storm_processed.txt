@@ -1,0 +1,118 @@
+STAPLES:
+2 Ad Nauseam
+2 Ancient Tomb
+2 Arcane Signet
+2 Bloodstained Mire
+2 Brainstorm
+2 Cabal Ritual
+2 Cephalid Coliseum
+2 Chain of Vapor
+2 Chrome Mox
+2 City of Brass
+2 Command Tower
+1 Copy Artifact
+2 Culling the Weak
+2 Cyclonic Rift
+2 Dark Confidant
+2 Dark Ritual
+2 Demonic Consultation
+2 Demonic Tutor
+2 Dimir Signet
+2 Dramatic Reversal
+2 Exotic Orchard
+2 Fellwar Stone
+2 Flooded Strand
+2 Flusterstorm
+2 Forbidden Orchard
+2 Force of Negation
+2 Force of Will
+2 Gemstone Caverns
+2 Gilded Drake
+2 Gitaxian Probe
+2 Grim Monolith
+2 Imperial Seal
+2 Isochron Scepter
+1 Jace, Wielder of Mysteries
+2 Lotus Petal
+2 Mana Confluence
+2 Mana Crypt
+2 Mana Drain
+2 Mana Vault
+2 Marsh Flats
+2 Mental Misstep
+1 Merchant Scroll
+2 Misty Rainforest
+2 Morphic Pool
+2 Mox Diamond
+2 Mox Opal
+2 Muddle the Mixture
+2 Mystic Remora
+2 Mystical Tutor
+1 Narset, Parter of Veils
+2 Necropotence
+2 Notion Thief
+2 Pact of Negation
+1 Phantasmal Image
+2 Polluted Delta
+2 Ponder
+1 Praetor's Grasp
+2 Preordain
+2 Prismatic Vista
+2 Rhystic Study
+2 Scalding Tarn
+2 Sol Ring
+2 Spellseeker
+2 Swan Song
+2 Tainted Pact
+2 Talisman of Dominance
+2 Thassa's Oracle
+2 Timetwister
+2 Toxic Deluge
+2 Underground River
+2 Underground Sea
+2 Urborg, Tomb of Yawgmoth
+2 Vampiric Tutor
+2 Verdant Catacombs
+2 Watery Grave
+1 Windfall
+1 Winds of Rebuke
+2 Wishclaw Talisman
+1 Yawgmoth's Will
+1 Counterspell
+1 Delay
+1 Drown in the Loch
+1 Laboratory Maniac
+1 Narset's Reversal
+1 Rain of Filth
+1 Sensei's Divining Top
+
+NON_STAPLES:
+2 Ashiok, Dream Render
+2 Bitterblossom
+2 Clearwater Pathway / Murkwater Pathway
+1 Feed the Swarm
+2 Hullbreacher
+2 Island
+1 Jeweled Lotus
+2 Kels, Fight Fixer
+2 Lim-Dûl's Vault
+2 Mindblade Render
+2 Miscast
+2 Ophiomancer
+2 Opposition Agent
+1 Peer into the Abyss
+1 Pongify
+2 Snow-Covered Island
+2 Snow-Covered Swamp
+1 Spire of Industry
+2 Sunken Ruins
+2 Swamp
+1 Teferi, Master of Time
+1 Dreadhorde Invasion
+1 Ghostly Pilferer
+1 Rapid Hybridization
+1 Reflecting Pool
+1 Sea Gate Stormcaller
+1 Seat of the Synod
+1 Shred Memory
+1 Vault of Whispers

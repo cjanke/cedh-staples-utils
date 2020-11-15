@@ -1,0 +1,136 @@
+STAPLES:
+1 Ancient Tomb
+2 Arbor Elf
+2 Birds of Paradise
+2 Brainstorm
+2 Breeding Pool
+2 Carpet of Flowers
+1 Cephalid Coliseum
+2 Chain of Vapor
+2 Chrome Mox
+2 City of Brass
+1 Collector Ouphe
+2 Command Tower
+2 Counterspell
+1 Crop Rotation
+1 Cyclonic Rift
+2 Deflecting Swat
+1 Delay
+2 Dockside Extortionist
+2 Elvish Mystic
+2 Emergence Zone
+2 Exotic Orchard
+2 Fierce Guardianship
+2 Flooded Strand
+2 Flusterstorm
+2 Force of Negation
+2 Force of Will
+2 Fyndhorn Elves
+2 Gaea's Cradle
+1 Gamble
+2 Gilded Drake
+2 Gitaxian Probe
+1 Intuition
+2 Llanowar Elves
+1 Lotus Petal
+2 Mana Confluence
+2 Mana Crypt
+2 Mana Drain
+2 Mana Vault
+2 Mental Misstep
+1 Merchant Scroll
+2 Misty Rainforest
+2 Mox Amber
+2 Mox Diamond
+2 Mystic Remora
+1 Mystic Sanctuary
+2 Mystical Tutor
+1 Narset, Parter of Veils
+2 Noxious Revival
+1 Null Rod
+2 Phantasmal Image
+2 Polluted Delta
+2 Ponder
+2 Pyroblast
+2 Red Elemental Blast
+2 Rhystic Study
+2 Scalding Tarn
+2 Sol Ring
+2 Steam Vents
+1 Stomping Ground
+2 Swan Song
+2 Sylvan Library
+2 Taiga
+1 Timetwister
+2 Tropical Island
+1 Underworld Breach
+2 Utopia Sprawl
+2 Veil of Summer
+2 Verdant Catacombs
+2 Volcanic Island
+1 Wheel of Fortune
+1 Wild Growth
+1 Windfall
+2 Windswept Heath
+2 Wooded Foothills
+2 Worldly Tutor
+1 Arcane Signet
+1 Arid Mesa
+1 Blood Moon
+1 Bloodstained Mire
+1 Bloom Tender
+1 Eldritch Evolution
+1 Eternal Witness
+1 Finale of Devastation
+1 Forbidden Orchard
+1 Force of Vigor
+1 Gemstone Caverns
+1 Green Sun's Zenith
+1 Muddle the Mixture
+1 Narset's Reversal
+1 Neoform
+1 Oakhame Adversary
+1 Pact of Negation
+1 Preordain
+1 Priest of Titania
+1 Prismatic Vista
+1 Spellseeker
+1 Vexing Shusher
+1 Waterlogged Grove
+1 Yavimaya Coast
+
+NON_STAPLES:
+2 Abrade
+1 Blue Elemental Blast
+1 Exploration
+2 Forest
+1 Hullbreacher
+3 Island
+1 Izzet Guildmage
+1 Jeweled Lotus
+2 Kraum, Ludevic's Opus
+1 Lightning Bolt
+1 Manamorphose
+1 Mindbreak Trap
+1 Miscast
+1 Regrowth
+1 Rejuvenating Springs
+1 Reset
+1 Seal of Fire
+2 Seedborn Muse
+2 Thrasios, Triton Hero
+1 Tinder Wall
+1 Training Center
+2 Training Grounds
+1 Barrin, Master Wizard
+1 Basalt Monolith
+1 Biomancer's Familiar
+1 Kenrith's Transformation
+1 Kinnan, Bonder Prodigy
+1 Magus of the Moon
+1 Oko, Thief of Crowns
+2 Snow-Covered Forest
+3 Snow-Covered Island
+1 Spell Snare
+1 Submerge
+1 Temur Sabertooth

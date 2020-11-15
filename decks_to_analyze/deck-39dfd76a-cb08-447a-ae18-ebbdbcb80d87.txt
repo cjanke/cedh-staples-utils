@@ -1,0 +1,104 @@
+1 Arbor Elf
+1 Birds of Paradise
+1 Apprentice Necromancer
+1 Deathrite Shaman
+1 Hermit Druid
+1 Jace, Vryn's Prodigy
+1 Worldly Tutor
+1 Sylvan Safekeeper
+1 Thassa's Oracle
+1 Wall of Roots
+1 Eternal Scourge
+1 Eternal Witness
+1 Sylvan Library
+1 Food Chain
+1 Necropotence
+1 Dark Ritual
+1 Demonic Consultation
+1 Entomb
+1 Flusterstorm
+1 Mental Misstep
+1 Mystical Tutor
+1 Nature's Claim
+1 Noxious Revival
+1 Spell Pierce
+1 Swan Song
+1 Vampiric Tutor
+1 Windfall
+1 Preordain
+1 Pact of Negation
+1 Brainstorm
+1 Chain of Vapor
+1 Opposition Agent
+1 Fatestitcher
+1 Dark Confidant
+1 Gilded Drake
+1 Riftsweeper
+1 Assassin's Trophy
+1 Survival of the Fittest
+1 Memory's Journey
+1 Shallow Grave
+1 Tainted Pact
+1 Ad Nauseam
+1 Force of Will
+1 Demonic Tutor
+1 Diabolic Intent
+1 Neoform
+1 Postmortem Lunge
+1 Veil of Summer
+1 Abrupt Decay
+1 Cyclonic Rift
+1 Lim-Dûl's Vault
+1 Extract
+1 Gitaxian Probe
+1 Imperial Seal
+1 Ponder
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Quicken
+1 Mana Crypt
+1 Narcomoeba
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Diamond
+1 Sol Ring
+1 Carpet of Flowers
+1 Mystic Remora
+1 Dread Return
+1 Spellseeker
+1 Morphic Pool
+1 Exotic Orchard
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Polluted Delta
+1 City of Brass
+1 Command Tower
+1 Forbidden Orchard
+1 Watery Grave
+1 Boseiju, Who Shelters All
+1 Bayou
+1 Flooded Strand
+1 Gemstone Caverns
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Ancient Tomb
+1 Bloodstained Mire
+1 Breeding Pool
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 Scalding Tarn
+1 Tropical Island
+1 Underground River
+1 Underground Sea
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Windswept Heath
+1 Wooded Foothills
+
+// Commander
+1 Sidisi, Brood Tyrant
+
+// Outside the Game

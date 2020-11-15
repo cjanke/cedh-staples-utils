@@ -1,0 +1,133 @@
+STAPLES:
+3 Spellseeker
+3 Sol Ring
+3 Gitaxian Probe
+3 Chrome Mox
+3 Force of Will
+2 Delay
+3 Arbor Elf
+3 Bloom Tender
+3 Mystic Remora
+3 Carpet of Flowers
+3 Veil of Summer
+3 Mental Misstep
+3 Flusterstorm
+2 Nature's Claim
+2 Cyclonic Rift
+3 Mana Crypt
+3 Intuition
+2 Ponder
+2 Arcane Signet
+1 Mana Vault
+3 Priest of Titania
+3 Noxious Revival
+3 Collector Ouphe
+3 Dockside Extortionist
+3 Mana Drain
+2 Force of Negation
+3 Birds of Paradise
+3 Mox Diamond
+2 Reap
+3 Vexing Shusher
+3 Elvish Mystic
+3 Fyndhorn Elves
+2 Negate
+3 Oakhame Adversary
+3 Utopia Sprawl
+3 Wild Growth
+3 Survival of the Fittest
+3 Sylvan Library
+2 Blood Moon
+3 Rhystic Study
+3 Brainstorm
+3 Llanowar Elves
+3 Destiny Spinner
+3 Gilded Drake
+3 Mystical Tutor
+3 Pyroblast
+3 Swan Song
+3 Worldly Tutor
+2 Counterspell
+3 Gamble
+2 Preordain
+3 Exotic Orchard
+3 Windswept Heath
+3 Tropical Island
+3 Bloodstained Mire
+3 Scalding Tarn
+2 Ancient Tomb
+3 Breeding Pool
+2 Gaea's Cradle
+3 Arid Mesa
+3 Mana Confluence
+2 Fiery Islet
+3 Polluted Delta
+3 Flooded Strand
+3 Verdant Catacombs
+3 City of Brass
+3 Misty Rainforest
+3 Volcanic Island
+3 Command Tower
+3 Prismatic Vista
+2 Waterlogged Grove
+3 Wooded Foothills
+3 Stomping Ground
+3 Forbidden Orchard
+3 Steam Vents
+3 Taiga
+1 Boreal Druid
+1 Chain of Vapor
+1 Chord of Calling
+1 Dispel
+1 Eldritch Evolution
+1 Finale of Devastation
+1 Muddle the Mixture
+1 Neoform
+1 Null Rod
+1 Pact of Negation
+2 Phantasmal Image
+1 Red Elemental Blast
+1 Snap
+1 Spell Pierce
+1 Timetwister
+1 Winds of Rebuke
+
+NON_STAPLES:
+3 Food Chain
+1 Kiki-Jiki, Mirror Breaker
+3 Drift of Phantasms
+2 Compost
+2 Magus of the Moon
+2 Extract
+3 Barrin, Master Wizard
+3 Squee, the Immortal
+3 Imperial Recruiter
+3 Miscast
+2 Runic Armasaur
+2 Goblin Bombardment
+2 Stranglehold
+1 Brazen Borrower
+1 Deceiver Exarch
+3 Meltdown
+2 Hullbreacher
+5 Snow-Covered Island
+3 Spire Garden
+3 Rejuvenating Springs
+5 Snow-Covered Forest
+2 Illuna, Apex of Wishes
+1 Eternal Scourge
+1 Forest
+1 Island
+1 Lore Drakkis
+1 Manglehorn
+1 Misthollow Griffin
+1 Mountain
+1 Regrowth
+1 Sea Gate Stormcaller
+1 Training Center
+1 Unsubstantiate
+1 Wall of Roots
+1 Ghostly Pilferer
+1 Ceta Sanctuary
+1 Abrade
+1 Omnath, Locus of the Roil

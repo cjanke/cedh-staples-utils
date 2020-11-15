@@ -1,0 +1,130 @@
+STAPLES:
+2 Ancient Tomb
+2 Arcane Signet
+2 Arid Mesa
+2 Aven Mindcensor
+1 Chain of Vapor
+2 Chrome Mox
+2 Command Tower
+2 Cursed Totem
+2 Cyclonic Rift
+2 Delay
+2 Dovin's Veto
+1 Dramatic Reversal
+2 Drannith Magistrate
+2 Enlightened Tutor
+1 Fabricate
+2 Fellwar Stone
+2 Fierce Guardianship
+2 Flooded Strand
+1 Flusterstorm
+2 Force of Negation
+2 Force of Will
+2 Grim Monolith
+2 Hallowed Fountain
+1 Inventors' Fair
+1 Isochron Scepter
+2 Lotus Petal
+2 Mana Crypt
+2 Mana Drain
+2 Marsh Flats
+1 Merchant Scroll
+2 Misty Rainforest
+2 Mox Diamond
+1 Mox Opal
+2 Muddle the Mixture
+2 Mystic Remora
+2 Mystical Tutor
+2 Narset, Parter of Veils
+1 Pact of Negation
+2 Polluted Delta
+2 Prismatic Vista
+2 Rest in Peace
+2 Rhystic Study
+2 Scalding Tarn
+1 Sea of Clouds
+2 Sensei's Divining Top
+2 Silence
+2 Smothering Tithe
+2 Sol Ring
+2 Swan Song
+2 Swords to Plowshares
+2 Talisman of Progress
+2 Transmute Artifact
+2 Tundra
+1 Whir of Invention
+2 Windswept Heath
+1 Back to Basics
+1 Brainstorm
+1 Cephalid Coliseum
+1 Copy Artifact
+1 Counterspell
+1 Dispel
+1 Gemstone Caverns
+1 Gilded Drake
+1 Gitaxian Probe
+1 Impulse
+1 Mana Vault
+1 Mental Misstep
+1 Negate
+1 Ponder
+1 Preordain
+1 Spell Pierce
+1 Timetwister
+1 Windfall
+
+NON_STAPLES:
+1 Academy Ruins
+1 Azor, the Lawbringer
+2 Azorius Signet
+1 Basalt Monolith
+1 Blue Sun's Zenith
+1 Emergency Powers
+1 Finale of Revelation
+2 Grand Arbiter Augustin IV
+1 Heliod, Sun-Crowned
+15 Island
+2 Jeweled Amulet
+1 Karn, the Great Creator
+1 Mystic Gate
+1 Narset Transcendent
+1 Nexus of Fate
+1 Nimbus Maze
+8 Plains
+1 Pongify
+1 Power Artifact
+1 Prairie Stream
+1 Reliquary Tower
+1 Rings of Brighthearth
+2 Sphinx's Revelation
+1 Stroke of Genius
+1 Supreme Verdict
+2 Teferi, Hero of Dominaria
+2 Teferi, Master of Time
+1 Teferi, Time Raveler
+2 Tezzeret the Seeker
+1 Tidespout Tyrant
+1 Tribute Mage
+1 Trickbind
+1 Trinket Mage
+1 Venser, the Sojourner
+2 Verity Circle
+1 Walking Ballista
+1 Approach of the Second Sun
+1 City of Traitors
+1 Coldsteel Heart
+1 Consecrated Sphinx
+1 Crystal Vein
+1 Damping Sphere
+1 Helm of Obedience
+1 Humility
+1 Hushbringer
+1 Idyllic Tutor
+1 Mana Leak
+1 Mangara, the Diplomat
+1 Miscast
+1 Ravages of War
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Sphere of the Suns
+1 Stasis
+1 Steal Enchantment

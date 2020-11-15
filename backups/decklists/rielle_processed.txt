@@ -1,0 +1,123 @@
+STAPLES:
+2 Ancient Tomb
+3 Arcane Signet
+3 Back to Basics
+1 Baral, Chief of Compliance
+3 Blood Moon
+3 Brain Freeze
+3 Cephalid Coliseum
+2 Chain of Vapor
+3 Chrome Mox
+2 City of Brass
+2 Command Tower
+3 Copy Artifact
+3 Cursed Totem
+3 Cyclonic Rift
+3 Deflecting Swat
+3 Dig Through Time
+3 Dispel
+3 Dockside Extortionist
+3 Dramatic Reversal
+2 Fellwar Stone
+3 Fierce Guardianship
+3 Fiery Islet
+3 Flooded Strand
+3 Flusterstorm
+1 Forbidden Orchard
+3 Force of Negation
+3 Force of Will
+3 Frantic Search
+3 Gamble
+2 Gemstone Caverns
+3 Gilded Drake
+3 Gitaxian Probe
+3 Homeward Path
+1 Inventors' Fair
+3 Isochron Scepter
+3 Lion's Eye Diamond
+3 Lotus Petal
+2 Mana Confluence
+3 Mana Crypt
+3 Mana Drain
+3 Mana Vault
+3 Mental Misstep
+2 Merchant Scroll
+3 Misty Rainforest
+2 Mox Amber
+3 Mox Diamond
+2 Muddle the Mixture
+3 Mystic Remora
+2 Mystic Sanctuary
+3 Mystical Tutor
+3 Narset, Parter of Veils
+3 Narset's Reversal
+3 Polluted Delta
+3 Ponder
+3 Prismatic Vista
+3 Pyroblast
+3 Red Elemental Blast
+3 Rhystic Study
+3 Scalding Tarn
+3 Sensei's Divining Top
+3 Sol Ring
+3 Steam Vents
+3 Swan Song
+3 Talisman of Creativity
+3 Timetwister
+3 Underworld Breach
+3 Volcanic Island
+3 Wheel of Fortune
+3 Windfall
+2 Winds of Rebuke
+2 Pact of Negation
+2 Preordain
+1 Snap
+1 Spell Pierce
+2 Arid Mesa
+2 Bloodstained Mire
+1 Simian Spirit Guide
+2 Wooded Foothills
+1 The Tabernacle at Pendrell Vale
+1 Brainstorm
+1 Counterspell
+1 Exotic Orchard
+1 Impulse
+1 Negate
+
+NON_STAPLES:
+2 Abrade
+3 Bazaar of Baghdad
+3 Breakthrough
+2 Burning Inquiry
+3 Careful Study
+3 Codex Shredder
+3 Dack Fayden
+3 Faithless Looting
+3 Firestorm
+18 Island
+3 Izzet Charm
+3 Izzet Signet
+3 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+3 Magus of the Moon
+2 Misdirection
+4 Mountain
+3 Pyroclasm
+2 Recall
+3 Rielle, the Everwise
+3 Tolarian Winds
+3 Turbulent Dreams
+1 Bonus Round
+2 Treasure Cruise
+1 Go for Blood
+1 Lonely Sandbar
+1 Rite of Flame
+10 Snow-Covered Island
+2 Snow-Covered Mountain
+1 Submerge
+1 Magus of the Bazaar
+1 Tale's End
+1 Whipflare
+1 Hullbreacher
+1 Shivan Reef
+1 Stranglehold
+1 Thieving Skydiver

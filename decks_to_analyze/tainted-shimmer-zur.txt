@@ -1,0 +1,112 @@
+1 Ad Nauseam
+1 Aetherflux Reservoir
+1 Ancient Tomb
+1 Angel's Grace
+1 Arcane Signet
+1 Arid Mesa
+1 Aven Mindcensor
+1 Azorius Signet
+1 Bloodstained Mire
+1 Brainstorm
+1 Cabal Ritual
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Confidant
+1 Dark Ritual
+1 Delay
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dimir Signet
+1 Dispel
+1 Dovin's Veto
+1 Dramatic Reversal
+1 Drown in the Loch
+1 Emergence Zone
+1 Enlightened Tutor
+1 Exotic Orchard
+1 Fellwar Stone
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Gitaxian Probe
+1 Godless Shrine
+1 Grasp of Fate
+1 Grim Monolith
+1 Hallowed Fountain
+1 Helm of Awakening
+1 Imperial Seal
+1 Impulse
+1 Island
+1 Jace, Wielder of Mysteries
+1 Lim-Dul's Vault
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Misty Rainforest
+1 Morphic Pool
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Necropotence
+1 Notion Thief
+1 Opt
+1 Pact of Negation
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Quicken
+1 Rhystic Study
+1 Scalding Tarn
+1 Scroll Rack
+1 Scrubland
+1 Sea of Clouds
+1 Sensei's Divining Top
+1 Shimmer Myr
+1 Silence
+1 Snow-Covered Island
+1 Sol Ring
+1 Spell Pierce
+1 Swamp
+1 Swan Song
+1 Swords to Plowshares
+1 Tainted Pact
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Thassa's Oracle
+1 Timetwister
+1 Toxic Deluge
+1 Tundra
+1 Underground River
+1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Watery Grave
+1 Windfall
+1 Windswept Heath
+1 Yawgmoth's Will
+1 Zur the Enchanter
+
+Sideboard:
+1 Containment Priest
+1 Extirpate
+1 Hurkyl's Recall
+1 Jace, Vryn's Prodigy
+1 Massacre
+1 Merchant Scroll
+1 Nihil Spellbomb
+1 Rest in Peace
+1 Snap
+

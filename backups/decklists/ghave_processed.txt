@@ -1,0 +1,147 @@
+STAPLES:
+4 Abrupt Decay
+2 Ad Nauseam
+3 Ancient Tomb
+4 Arbor Elf
+4 Arid Mesa
+4 Assassin's Trophy
+3 Avacyn's Pilgrim
+4 Aven Mindcensor
+4 Bayou
+4 Birds of Paradise
+4 Bloodstained Mire
+4 Carpet of Flowers
+4 Chrome Mox
+2 City of Brass
+2 Collector Ouphe
+4 Command Tower
+4 Crop Rotation
+4 Dark Confidant
+4 Dark Ritual
+4 Deathrite Shaman
+4 Demonic Tutor
+4 Diabolic Intent
+3 Drannith Magistrate
+4 Earthcraft
+4 Eladamri's Call
+4 Elves of Deep Shadow
+4 Elvish Mystic
+4 Enlightened Tutor
+4 Exotic Orchard
+4 Finale of Devastation
+4 Flooded Strand
+4 Forbidden Orchard
+2 Force of Vigor
+4 Fyndhorn Elves
+4 Gaea's Cradle
+4 Godless Shrine
+4 Green Sun's Zenith
+4 Horizon Canopy
+4 Imperial Seal
+4 Llanowar Elves
+4 Mana Confluence
+4 Mana Crypt
+2 Mana Vault
+4 Marsh Flats
+4 Misty Rainforest
+4 Mox Diamond
+4 Nature's Claim
+4 Necropotence
+4 Noxious Revival
+4 Nurturing Peatland
+4 Oakhame Adversary
+4 Overgrown Tomb
+4 Phyrexian Tower
+4 Polluted Delta
+4 Priest of Titania
+3 Prismatic Vista
+4 Savannah
+4 Scrubland
+4 Silence
+4 Sol Ring
+4 Swords to Plowshares
+4 Sylvan Library
+2 Tainted Pact
+4 Temple Garden
+4 Utopia Sprawl
+4 Vampiric Tutor
+4 Veil of Summer
+4 Verdant Catacombs
+4 Wild Growth
+4 Windswept Heath
+4 Wooded Foothills
+4 Worldly Tutor
+2 Yawgmoth's Will
+4 Linvala, Keeper of Silence
+2 Urborg, Tomb of Yawgmoth
+2 Animate Dead
+3 Chord of Calling
+2 Culling the Weak
+3 Eldritch Evolution
+2 Entomb
+3 Eternal Witness
+2 Grand Abolisher
+1 Lion's Eye Diamond
+2 Necromancy
+2 Razaketh, the Foulblooded
+2 Reanimate
+3 Skullclamp
+2 Survival of the Fittest
+1 Destiny Spinner
+2 Reap
+
+NON_STAPLES:
+1 Archon of Emeria
+4 Ashnod's Altar
+4 Blood Artist
+3 Corpse Knight
+3 Cryptic Trilobite
+3 Deafening Silence
+2 Fertile Ground
+3 Forest
+4 Generous Patron
+4 Ghave, Guru of Spores
+3 Hushbringer
+4 Imp's Mischief
+1 Jeweled Lotus
+1 Opposition Agent
+4 Phyrexian Altar
+3 Root Maze
+6 Snow-Covered Forest
+2 Snow-Covered Swamp
+3 Spirit of the Labyrinth
+3 Squirrel Nest
+4 Strangleroot Geist
+3 Tangle Wire
+1 Tayam, Luminous Enigma
+2 Three Visits
+4 Tymna the Weaver
+1 Undergrowth Stadium
+4 Young Wolf
+1 Fiend Artisan
+1 Joraga Treespeaker
+2 Academy Rector
+3 Bountiful Promenade
+1 Brought Back
+2 Leonin Relic-Warder
+2 Life / Death
+2 Loyal Retainers
+2 Nature's Lore
+2 Pattern of Rebirth
+3 Runic Armasaur
+2 Swamp
+1 Zulaport Cutthroat
+1 Ranger-Captain of Eos
+1 Snow-Covered Plains
+1 Choke
+2 Compost
+1 Eidolon of Rhetoric
+1 Elesh Norn, Grand Cenobite
+1 Ethersworn Canonist
+1 Geralf's Messenger
+1 Mindblade Render
+1 Zealous Persecution
+1 Qasali Pridemage
+1 Autumn's Veil
+1 Plains
+1 Trinisphere

@@ -1,0 +1,127 @@
+STAPLES:
+1 Arbor Elf
+2 Arid Mesa
+2 Avacyn's Pilgrim
+2 Aven Mindcensor
+2 Birds of Paradise
+2 Blood Moon
+2 Bloodstained Mire
+2 Bloom Tender
+2 Carpet of Flowers
+2 Chord of Calling
+2 Chrome Mox
+2 City of Brass
+2 Collector Ouphe
+2 Command Tower
+2 Crop Rotation
+2 Dockside Extortionist
+2 Eladamri's Call
+2 Eldritch Evolution
+2 Elvish Mystic
+2 Enlightened Tutor
+1 Eternal Witness
+2 Finale of Devastation
+2 Flooded Strand
+1 Forbidden Orchard
+1 Force of Vigor
+2 Fyndhorn Elves
+2 Gaea's Cradle
+1 Horizon Canopy
+2 Linvala, Keeper of Silence
+2 Llanowar Elves
+2 Mana Confluence
+2 Mana Crypt
+1 Marsh Flats
+2 Misty Rainforest
+2 Mox Diamond
+2 Nature's Claim
+2 Noxious Revival
+2 Null Rod
+1 Oakhame Adversary
+2 Plateau
+2 Priest of Titania
+2 Pyroblast
+1 Reclamation Sage
+2 Red Elemental Blast
+2 Savannah
+2 Scalding Tarn
+2 Silence
+2 Skullclamp
+2 Sol Ring
+2 Stomping Ground
+2 Survival of the Fittest
+1 Swords to Plowshares
+2 Sylvan Library
+2 Taiga
+2 Tarnished Citadel
+2 Temple Garden
+2 Veil of Summer
+2 Verdant Catacombs
+2 Vexing Shusher
+2 Wild Growth
+2 Windswept Heath
+2 Wooded Foothills
+2 Worldly Tutor
+1 Exotic Orchard
+1 Green Sun's Zenith
+1 Prismatic Vista
+1 Smothering Tithe
+1 Utopia Sprawl
+
+NON_STAPLES:
+2 Academy Rector
+1 Altar of Bone
+2 Atla Palani, Nest Tender
+1 Birthing Pod
+2 Blossoming Defense
+1 Bountiful Promenade
+1 Deafening Silence
+2 Dromoka's Command
+1 Elesh Norn, Grand Cenobite
+2 Evolutionary Leap
+1 Felidar Guardian
+1 Forest
+2 Goblin Bombardment
+2 Goblin Sharpshooter
+2 Imperial Recruiter
+1 Karmic Guide
+2 Kiki-Jiki, Mirror Breaker
+1 Kozilek, Butcher of Truth
+2 Magus of the Moon
+2 Mirror Entity
+1 Mogg Raider
+2 Okina, Temple to the Grandfathers
+2 Pendelhaven
+1 Plains
+2 Qasali Pridemage
+1 Quirion Ranger
+1 Recruiter of the Guard
+2 Runic Armasaur
+2 Sacred Foundry
+2 Spire Garden
+2 Spirit of the Labyrinth
+2 Splinter Twin
+1 Sunbaked Canyon
+1 Thalia, Guardian of Thraben
+2 Village Bell-Ringer
+1 Wear / Tear
+1 Yisan, the Wanderer Bard
+1 Ancient Animus
+1 Autumn's Veil
+1 Defense of the Heart
+1 Gavony Township
+1 Hashep Oasis
+1 Meltdown
+1 Ohran Frostfang
+1 Ranger's Guile
+1 Rhythm of the Wild
+1 Rolling Earthquake
+1 Savage Summoning
+1 Savage Swipe
+1 Setessan Tactics
+1 Skarrg, the Rage Pits
+3 Snow-Covered Forest
+1 Snow-Covered Plains
+1 Subterranean Tremors
+1 Ulamog, the Infinite Gyre
+1 Vines of Vastwood

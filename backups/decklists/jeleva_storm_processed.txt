@@ -1,0 +1,138 @@
+STAPLES:
+2 Ad Nauseam
+2 Ancient Tomb
+2 Arcane Signet
+2 Arid Mesa
+2 Badlands
+1 Blood Crypt
+2 Bloodstained Mire
+1 Brain Freeze
+2 Brainstorm
+2 Cabal Ritual
+2 Chain of Vapor
+2 Chrome Mox
+2 City of Brass
+2 Command Tower
+2 Dark Ritual
+1 Deflecting Swat
+2 Demonic Consultation
+2 Demonic Tutor
+2 Dimir Signet
+2 Dispel
+2 Dockside Extortionist
+2 Exotic Orchard
+2 Fellwar Stone
+1 Fierce Guardianship
+2 Flooded Strand
+2 Flusterstorm
+1 Force of Negation
+2 Force of Will
+2 Gamble
+2 Gemstone Caverns
+2 Gitaxian Probe
+2 Grim Monolith
+2 Imperial Seal
+1 Lion's Eye Diamond
+2 Lotus Petal
+1 Luxury Suite
+2 Mana Confluence
+2 Mana Crypt
+2 Mana Vault
+2 Marsh Flats
+2 Mental Misstep
+2 Misty Rainforest
+2 Morphic Pool
+2 Mox Diamond
+2 Mox Opal
+1 Muddle the Mixture
+2 Mystic Remora
+2 Mystical Tutor
+2 Necropotence
+2 Notion Thief
+2 Pact of Negation
+1 Phantasmal Image
+2 Polluted Delta
+1 Praetor's Grasp
+1 Pyroblast
+1 Rain of Filth
+2 Red Elemental Blast
+2 Rhystic Study
+2 Scalding Tarn
+1 Simian Spirit Guide
+1 Snap
+2 Sol Ring
+2 Spell Pierce
+2 Steam Vents
+2 Swan Song
+2 Tainted Pact
+2 Talisman of Creativity
+2 Talisman of Dominance
+2 Thassa's Oracle
+2 Timetwister
+2 Toxic Deluge
+2 Underground Sea
+2 Underworld Breach
+2 Vampiric Tutor
+2 Verdant Catacombs
+2 Volcanic Island
+2 Watery Grave
+2 Wheel of Fortune
+2 Windfall
+1 Winds of Rebuke
+1 Wishclaw Talisman
+2 Wooded Foothills
+2 Yawgmoth's Will
+2 Cephalid Coliseum
+1 Cyclonic Rift
+2 Gilded Drake
+1 Narset's Reversal
+2 Reanimate
+1 Copy Artifact
+1 Counterspell
+1 Cursed Totem
+1 Dark Confidant
+1 Delay
+1 Dramatic Reversal
+1 Fiery Islet
+1 Forbidden Orchard
+1 Jace, Wielder of Mysteries
+1 Mana Drain
+1 Negate
+1 Opt
+1 Plunge into Darkness
+1 Ponder
+1 Preordain
+1 Sensei's Divining Top
+1 Tarnished Citadel
+1 Underground River
+
+NON_STAPLES:
+1 Defense Grid
+1 Final Fortune
+1 Grinding Station
+2 Island
+1 Izzet Signet
+2 Jeleva, Nephalia's Scourge
+1 Jeska's Will
+1 Miscast
+1 Opposition Agent
+1 Peer into the Abyss
+1 Rite of Flame
+2 Snow-Covered Island
+1 Spire of Industry
+2 Swamp
+1 Training Center
+1 Unsubstantiate
+1 Wheel of Misfortune
+1 Abrade
+1 Mnemonic Betrayal
+1 Rebuild
+1 Rushing River
+1 Doomsday
+1 Gush
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+1 Lim-Dûl's Vault
+1 Night's Whisper
+1 Pyroclasm
+1 Sleight of Hand
+1 Sunken Ruins

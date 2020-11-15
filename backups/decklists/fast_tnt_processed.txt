@@ -1,0 +1,125 @@
+STAPLES:
+3 Abrupt Decay
+3 Assassin's Trophy
+3 Avacyn's Pilgrim
+3 Bayou
+3 Birds of Paradise
+3 Bloodstained Mire
+3 Brainstorm
+3 Breeding Pool
+3 Carpet of Flowers
+3 Chord of Calling
+3 Chrome Mox
+3 City of Brass
+3 Command Tower
+2 Dark Confidant
+3 Deathrite Shaman
+3 Demonic Consultation
+3 Demonic Tutor
+3 Diabolic Intent
+3 Dispel
+1 Drannith Magistrate
+2 Eladamri's Call
+2 Eldritch Evolution
+3 Elves of Deep Shadow
+3 Elvish Mystic
+1 Entomb
+3 Exotic Orchard
+3 Fierce Guardianship
+3 Finale of Devastation
+3 Flooded Strand
+3 Flusterstorm
+3 Forbidden Orchard
+3 Force of Vigor
+3 Force of Will
+3 Fyndhorn Elves
+3 Gemstone Caverns
+3 Gilded Drake
+3 Gitaxian Probe
+1 Grand Abolisher
+2 Green Sun's Zenith
+3 Imperial Seal
+3 Laboratory Maniac
+1 Lion's Eye Diamond
+3 Llanowar Elves
+3 Lotus Petal
+3 Mana Confluence
+3 Mana Crypt
+3 Marsh Flats
+3 Mental Misstep
+3 Misty Rainforest
+3 Morphic Pool
+3 Mox Diamond
+3 Mystic Remora
+3 Mystical Tutor
+1 Necromancy
+3 Noble Hierarch
+3 Noxious Revival
+3 Nurturing Peatland
+3 Overgrown Tomb
+3 Pact of Negation
+3 Polluted Delta
+3 Ponder
+3 Savannah
+3 Scalding Tarn
+2 Scrubland
+1 Sevinne's Reclamation
+3 Silence
+3 Sol Ring
+2 Spellseeker
+3 Swan Song
+3 Tainted Pact
+3 Tarnished Citadel
+3 Thassa's Oracle
+3 Tropical Island
+3 Tundra
+3 Underground Sea
+3 Vampiric Tutor
+3 Veil of Summer
+3 Verdant Catacombs
+3 Waterlogged Grove
+3 Watery Grave
+3 Windswept Heath
+1 Wishclaw Talisman
+3 Wooded Foothills
+3 Worldly Tutor
+2 Ad Nauseam
+2 Arbor Elf
+2 Chain of Vapor
+1 Delay
+1 Dovin's Veto
+2 Neoform
+2 Preordain
+1 Rhystic Study
+1 Spell Pierce
+2 Yavimaya Coast
+1 Crop Rotation
+1 Swords to Plowshares
+1 Sylvan Library
+1 Sylvan Safekeeper
+1 Underground River
+1 Wild Growth
+
+NON_STAPLES:
+1 Auriok Salvagers
+3 Cephalid Illusionist
+3 Dread Return
+2 Elvish Spirit Guide
+2 Fatestitcher
+3 Hermit Druid
+2 Lightning Greaves
+3 Lim-Dûl's Vault
+3 Memory's Journey
+3 Narcomoeba
+3 Nomads en-Kor
+3 Postmortem Lunge
+1 Shallow Grave
+1 Summoner's Pact
+3 Thrasios, Triton Hero
+3 Tymna the Weaver
+2 Aether Vial
+1 Angel's Grace
+1 Miscast
+1 Sylvan Tutor
+1 Hall of the Bandit Lord
+1 Quicken

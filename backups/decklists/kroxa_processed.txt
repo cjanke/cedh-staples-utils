@@ -1,0 +1,128 @@
+STAPLES:
+2 Ancient Tomb
+2 Animate Dead
+2 Arcane Signet
+2 Arid Mesa
+2 Badlands
+2 Blood Crypt
+2 Blood Moon
+2 Bloodstained Mire
+2 Cabal Ritual
+2 Chrome Mox
+2 Command Tower
+2 Cursed Totem
+2 Dance of the Dead
+2 Dark Confidant
+2 Dark Ritual
+2 Demonic Tutor
+2 Dockside Extortionist
+2 Entomb
+2 Exotic Orchard
+2 Fellwar Stone
+2 Fire Covenant
+2 Gamble
+2 Gemstone Caverns
+2 Grim Monolith
+2 Imperial Seal
+1 Lion's Eye Diamond
+2 Lotus Petal
+2 Luxury Suite
+2 Mana Crypt
+2 Mana Vault
+2 Marsh Flats
+2 Mox Diamond
+2 Necromancy
+2 Polluted Delta
+1 Praetor's Grasp
+2 Prismatic Vista
+2 Pyroblast
+1 Reanimate
+2 Red Elemental Blast
+2 Scalding Tarn
+2 Sol Ring
+2 Toxic Deluge
+2 Underworld Breach
+1 Urborg, Tomb of Yawgmoth
+2 Vampiric Tutor
+2 Verdant Catacombs
+2 Wheel of Fortune
+2 Wooded Foothills
+1 Yawgmoth's Will
+1 Ad Nauseam
+1 City of Brass
+1 Demonic Consultation
+1 Emergence Zone
+1 Forbidden Orchard
+1 Mana Confluence
+1 Necropotence
+1 Plunge into Darkness
+1 Sensei's Divining Top
+1 Tainted Pact
+1 Tarnished Citadel
+1 The Tabernacle at Pendrell Vale
+
+NON_STAPLES:
+2 Abrade
+1 Anger of the Gods
+2 Azra Oddsmaker
+1 Bottomless Pit
+2 By Force
+1 Castle Locthwain
+2 Chains of Mephistopheles
+2 Chaos Warp
+2 Duress
+2 Faithless Looting
+1 Final Parting
+1 Flame Sweep
+1 Gadrak, the Crown-Scourge
+2 Graven Cairns
+2 Imp's Mischief
+2 Kroxa, Titan of Death's Hunger
+2 Leyline of the Void
+2 Magus of the Moon
+1 Massacre
+1 Mountain
+1 Necrogen Mists
+2 Night's Whisper
+1 Opposition Agent
+2 Oppression
+1 Pyroclasm
+2 Rakdos Signet
+1 Rolling Earthquake
+1 Sire of Insanity
+2 Snow-Covered Mountain
+8 Snow-Covered Swamp
+1 Sphere of Resistance
+2 Stranglehold
+2 Sulfurous Springs
+2 Swamp
+1 Sweltering Suns
+2 Talisman of Indulgence
+2 Thoughtseize
+2 Thrill of Possibility
+1 Trinisphere
+1 Vilis, Broker of Blood
+1 Village Rites
+2 Waste Not
+1 Whipflare
+2 Worldgorger Dragon
+1 Blackcleave Cliffs
+1 Blood Pet
+1 Burning Inquiry
+1 Burnout
+1 Cabal Pit
+1 Chain of Smog
+1 Dark Deal
+1 Fork
+1 Geth's Grimoire
+1 Mausoleum Secrets
+1 Mind Rake
+1 Mindblade Render
+1 Shivan Gorge
+1 Shizo, Death's Storehouse
+1 Skirk Prospector
+1 Slaughter Pact
+1 Sunscorched Desert
+1 Vicious Rumors
+1 Winds of Change
+1 Withering Boon

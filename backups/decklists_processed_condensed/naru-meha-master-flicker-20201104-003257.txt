@@ -1,0 +1,90 @@
+1 Ancient Tomb
+1 Anticipate
+1 Arcane Signet
+1 Back to Basics
+1 Baral, Chief of Compliance
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Chain of Vapor
+1 Chrome Mox
+1 Counterspell
+1 Cryptic Command
+1 Cursed Totem
+1 Cyclonic Rift
+1 Deliberate
+1 Dig Through Time
+1 Drift of Phantasms
+1 Expedition Map
+1 Fellwar Stone
+1 Flood of Recollection
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Ghostly Flicker
+1 Gitaxian Probe
+1 Grim Monolith
+1 High Tide
+1 Hullbreacher
+1 Illusionist's Stratagem
+1 Impulse
+1 Intuition
+17 Island
+1 Jeweled Lotus
+1 Long-Term Plans
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Mind Stone
+1 Mindbreak Trap
+1 Mission Briefing
+1 Misty Rainforest
+1 Mox Diamond
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset's Reversal
+1 Naru Meha, Master Wizard
+1 Negate
+1 Opt
+1 Pact of Negation
+1 Peer Through Depths
+1 Polluted Delta
+1 Ponder
+1 Quicken
+1 Rapid Hybridization
+1 Reality Shift
+1 Rhystic Study
+1 Riptide Laboratory
+1 Sapphire Medallion
+1 Scalding Tarn
+1 Snapcaster Mage
+1 Sol Ring
+1 Spectral Sailor
+1 Spell Pierce
+1 Spellseeker
+1 Spellskite
+1 Stroke of Genius
+1 Sunscorched Desert
+1 Supreme Will
+1 Swan Song
+1 Thassa's Oracle
+1 The Tabernacle at Pendrell Vale
+1 Timetwister
+1 Tolarian Winds
+1 Whir of Invention
+1 Whispers of the Muse
+1 Windfall
+1 Winds of Rebuke
+1 Zhalfirin Void
+
+SIDEBOARD:
+1 Altar of the Brood
+1 Day's Undoing
+1 Time Spiral
+1 Treasure Cruise

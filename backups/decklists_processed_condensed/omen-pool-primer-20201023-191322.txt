@@ -1,0 +1,92 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Archon of Emeria
+1 Arid Mesa
+1 Armageddon
+1 Aven Mindcensor
+1 Azorius Signet
+1 Back to Basics
+1 Baral, Chief of Compliance
+1 Brainstorm
+1 Cephalid Coliseum
+1 Chrome Mox
+1 City of Traitors
+1 Command Tower
+1 Consecrated Sphinx
+1 Copy Artifact
+1 Counterspell
+1 Crystal Vein
+1 Cursed Totem
+1 Cyclonic Rift
+1 Delay
+1 Dig Through Time
+1 Disenchant
+1 Dispel
+1 Dovin's Veto
+1 Drannith Magistrate
+1 Emeria's Call / Emeria, Shattered Skyclave
+1 Enlightened Tutor
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Ghostly Pilferer
+1 Gilded Drake
+1 Grafdigger's Cage
+1 Grim Monolith
+1 Hallowed Fountain
+1 Hushbringer
+1 Idyllic Tutor
+1 Inventors' Fair
+7 Island
+1 Jace, the Mind Sculptor
+1 Juntu Stakes
+1 Knowledge Pool
+1 Lavinia, Azorius Renegade
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Negate
+1 Omen Machine
+1 Pact of Negation
+3 Plains
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Ravages of War
+1 Recurring Insight
+1 Rest in Peace
+1 Rhystic Study
+1 Scalding Tarn
+1 Scavenger Grounds
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Sensei's Divining Top
+1 Silence
+1 Smothering Tithe
+1 Sol Ring
+1 Strip Mine
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Time Raveler
+1 The Tabernacle at Pendrell Vale
+1 Timetwister
+1 Transmute Artifact
+1 Tundra
+1 Verity Circle
+1 Whir of Invention
+1 Windfall
+1 Windswept Heath
+1 Winter Orb

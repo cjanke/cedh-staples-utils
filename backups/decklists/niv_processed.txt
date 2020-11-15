@@ -1,0 +1,122 @@
+STAPLES:
+2 Arcane Signet
+2 Arid Mesa
+2 Blood Moon
+2 Bloodstained Mire
+2 Brainstorm
+2 Cephalid Coliseum
+2 Chrome Mox
+2 City of Brass
+2 Command Tower
+2 Copy Artifact
+1 Counterspell
+1 Cursed Totem
+2 Deflecting Swat
+2 Delay
+1 Dig Through Time
+2 Dispel
+2 Dockside Extortionist
+1 Exotic Orchard
+2 Fellwar Stone
+2 Fierce Guardianship
+2 Fiery Islet
+2 Flooded Strand
+2 Flusterstorm
+2 Forbidden Orchard
+2 Force of Negation
+2 Force of Will
+1 Frantic Search
+2 Gilded Drake
+2 Gitaxian Probe
+2 Grafdigger's Cage
+1 Impulse
+2 Mana Confluence
+2 Mana Crypt
+2 Mana Drain
+2 Mana Vault
+2 Mental Misstep
+2 Merchant Scroll
+2 Misty Rainforest
+2 Mox Diamond
+2 Mox Opal
+2 Muddle the Mixture
+2 Mystic Remora
+2 Mystical Tutor
+2 Pact of Negation
+2 Polluted Delta
+2 Ponder
+1 Preordain
+2 Prismatic Vista
+2 Pyroblast
+2 Red Elemental Blast
+2 Rhystic Study
+2 Scalding Tarn
+2 Sensei's Divining Top
+2 Sol Ring
+2 Steam Vents
+2 Swan Song
+2 Talisman of Creativity
+1 Tarnished Citadel
+2 Volcanic Island
+2 Wooded Foothills
+1 Ancient Tomb
+1 Baral, Chief of Compliance
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Fabricate
+1 Gamble
+1 Grim Monolith
+1 Intuition
+1 Isochron Scepter
+1 Narset's Reversal
+1 Negate
+1 Spellseeker
+1 The Tabernacle at Pendrell Vale
+1 Timetwister
+1 Transmute Artifact
+1 Wheel of Fortune
+1 Whir of Invention
+1 Windfall
+
+NON_STAPLES:
+2 Blink of an Eye
+1 Captain Lannery Storm
+2 Cascade Bluffs
+2 Coalition Relic
+2 Curiosity
+1 Fact or Fiction
+2 Glint-Horn Buccaneer
+1 Goblin Matron
+1 Goblin Recruiter
+1 Imperial Recruiter
+16 Island
+2 Izzet Signet
+1 Misdirection
+2 Mountain
+1 Mystical Dispute
+2 Niv-Mizzet, Parun
+2 Ophidian Eye
+2 Pongify
+1 Pull from Tomorrow
+1 Pyroclasm
+1 Reflecting Pool
+1 Riverglide Pathway / Lavaglide Pathway
+1 Rolling Earthquake
+2 Shivan Reef
+1 Sleight of Hand
+1 Snapback
+1 Spell Snare
+2 Spellskite
+1 Stranglehold
+1 Submerge
+2 Tandem Lookout
+2 Treasonous Ogre
+1 Echoing Truth
+1 Gilded Lotus
+1 Insight
+1 Miscast
+1 Rapid Hybridization
+1 Sapphire Medallion
+1 Sulfur Falls
+1 Thieving Skydiver
+1 Tolaria West

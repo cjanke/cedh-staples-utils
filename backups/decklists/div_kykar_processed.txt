@@ -1,0 +1,120 @@
+STAPLES:
+2 Arcane Signet
+3 Arid Mesa
+2 Back to Basics
+2 Blood Moon
+3 Bloodstained Mire
+3 Brainstorm
+1 Cephalid Coliseum
+3 Chrome Mox
+3 City of Brass
+3 Command Tower
+3 Counterspell
+3 Cyclonic Rift
+3 Delay
+3 Dispel
+3 Dovin's Veto
+3 Dramatic Reversal
+3 Enlightened Tutor
+3 Fellwar Stone
+3 Flooded Strand
+3 Flusterstorm
+2 Force of Negation
+3 Force of Will
+3 Frantic Search
+3 Gamble
+3 Gitaxian Probe
+3 Grim Monolith
+3 Isochron Scepter
+1 Lotus Petal
+3 Mana Confluence
+3 Mana Crypt
+3 Mana Drain
+3 Mana Vault
+3 Marsh Flats
+3 Mental Misstep
+3 Merchant Scroll
+3 Misty Rainforest
+3 Mox Diamond
+2 Mox Opal
+3 Muddle the Mixture
+3 Mystic Remora
+1 Mystic Sanctuary
+3 Mystical Tutor
+3 Narset's Reversal
+3 Narset, Parter of Veils
+3 Pact of Negation
+3 Plateau
+3 Polluted Delta
+3 Ponder
+3 Preordain
+3 Pyroblast
+3 Red Elemental Blast
+3 Rest in Peace
+3 Rhystic Study
+3 Scalding Tarn
+3 Sensei's Divining Top
+3 Skullclamp
+3 Smothering Tithe
+3 Sol Ring
+3 Steam Vents
+3 Swan Song
+3 Swords to Plowshares
+3 Talisman of Creativity
+3 Talisman of Progress
+1 Thassa's Oracle
+3 Timetwister
+1 Transmute Artifact
+3 Tundra
+1 Underworld Breach
+3 Volcanic Island
+3 Wheel of Fortune
+3 Windfall
+1 Winds of Rebuke
+3 Windswept Heath
+3 Wooded Foothills
+2 Chain of Vapor
+2 Copy Artifact
+2 Exotic Orchard
+2 Forbidden Orchard
+2 Hallowed Fountain
+2 Opt
+1 Prismatic Vista
+2 Silence
+2 Spellseeker
+1 Whir of Invention
+1 Ancient Tomb
+1 High Tide
+1 Sea of Clouds
+1 Snap
+
+NON_STAPLES:
+1 Aura of Silence
+3 Divergent Transformations
+1 Dovin, Hand of Control
+2 Earthquake
+2 Future Sight
+3 Goblin Bombardment
+3 Izzet Signet
+3 Kykar, Wind's Fury
+1 Leveler
+3 Rough
+1 Shattering Spree
+25 Snow-Covered Island
+2 Snow-Covered Mountain
+3 Snow-Covered Plains
+1 Steal Enchantment
+1 Synthetic Destiny
+2 Time Spiral
+3 Verity Circle
+3 Wear
+1 Teferi, Master of Time
+2 Azorius Signet
+2 Elsha of the Infinite
+2 Flame Sweep
+1 Mind Stone
+1 Mission Briefing
+1 Stranglehold
+1 Cascade Bluffs
+1 Kindred Discovery
+1 Recurring Insight

@@ -1,0 +1,88 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Back to Basics
+1 Baral, Chief of Compliance
+1 Beast Within
+1 Birds of Paradise
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Breeding Pool
+1 Carpet of Flowers
+1 Chain of Vapor
+1 Chrome Mox
+1 Command Tower
+1 Counterspell
+1 Cursed Totem
+1 Cyclonic Rift
+1 Dig Through Time
+1 Dispel
+1 Dramatic Reversal
+1 Enter the Infinite
+1 Fact or Fiction
+1 Fierce Guardianship
+1 Flooded Grove
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+2 Forest
+1 Ghostly Pilferer
+1 Gilded Drake
+1 Gitaxian Probe
+1 Growth Spiral
+1 Impulse
+1 Into the Roil
+12 Island
+1 Isochron Scepter
+1 Mana Crypt
+1 Mana Drain
+1 Mana Leak
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Miscast
+1 Misty Rainforest
+1 Mox Diamond
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Natural State
+1 Nature's Claim
+1 Negate
+1 Nexus of Fate
+1 Noxious Revival
+1 Oakhame Adversary
+1 Opt
+1 Pact of Negation
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Pull from Tomorrow
+1 Rapid Hybridization
+1 Rashmi, Eternities Crafter
+1 Reality Shift
+1 Reap
+1 Rhystic Study
+1 Sapphire Medallion
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Simic Signet
+1 Sol Ring
+1 Spell Snare
+1 Submerge
+1 Swan Song
+1 Sylvan Library
+1 Thought Scour
+1 Treasure Cruise
+1 Tropical Island
+1 Utopia Sprawl
+1 Veil of Summer
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Wavebreak Hippocamp
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya Coast

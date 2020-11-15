@@ -1,0 +1,83 @@
+1 Academy Ruins
+1 Ancient Tomb
+1 Arcane Signet
+1 Back to Basics
+1 Baral, Chief of Compliance
+1 Blink of an Eye
+1 Brainstorm
+1 Buried Ruin
+1 Capture of Jingzhou
+1 Chain of Vapor
+1 Chrome Mox
+1 Copy Artifact
+1 Counterbalance
+1 Counterspell
+1 Cursed Totem
+1 Cyclonic Rift
+1 Delay
+1 Dispel
+1 Dramatic Reversal
+1 Fabricate
+1 Fact or Fiction
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Will
+1 Gilded Drake
+1 Gilded Lotus
+1 God-Eternal Kefnet
+1 Grafdigger's Cage
+1 Grim Monolith
+1 High Tide
+1 Into the Roil
+1 Inventors' Fair
+20 Island
+1 Isochron Scepter
+1 Jace, the Mind Sculptor
+1 Long-Term Plans
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset's Reversal
+1 Negate
+1 Opt
+1 Pact of Negation
+1 Personal Tutor
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Portent
+1 Preordain
+1 Prismatic Vista
+1 Rapid Hybridization
+1 Rhystic Study
+1 Sapphire Medallion
+1 Scalding Tarn
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Serum Visions
+1 Sol Ring
+1 Soothsaying
+1 Spellseeker
+1 Swan Song
+1 Temporal Manipulation
+1 Temporal Mastery
+1 Time Spiral
+1 Time Warp
+1 Timetwister
+1 Transmute Artifact
+1 Tribute Mage
+1 Trinket Mage
+1 Whir of Invention
+1 Windfall
+
+

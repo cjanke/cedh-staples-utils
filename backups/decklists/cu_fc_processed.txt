@@ -1,0 +1,146 @@
+STAPLES:
+5 Abrupt Decay
+5 Ad Nauseam
+1 Ancient Tomb
+5 Arbor Elf
+5 Assassin's Trophy
+5 Bayou
+5 Birds of Paradise
+5 Bloodstained Mire
+5 Brainstorm
+5 Breeding Pool
+5 Carpet of Flowers
+5 Chain of Vapor
+5 Chrome Mox
+5 City of Brass
+5 Command Tower
+4 Culling the Weak
+4 Dark Confidant
+5 Dark Ritual
+5 Deathrite Shaman
+5 Demonic Consultation
+5 Demonic Tutor
+5 Destiny Spinner
+5 Diabolic Intent
+5 Dispel
+5 Elves of Deep Shadow
+5 Elvish Mystic
+5 Exotic Orchard
+5 Flooded Strand
+5 Flusterstorm
+4 Forbidden Orchard
+5 Force of Will
+5 Fyndhorn Elves
+1 Gaea's Cradle
+5 Gemstone Caverns
+5 Gilded Drake
+5 Gitaxian Probe
+5 Imperial Seal
+5 Llanowar Elves
+3 Llanowar Wastes
+5 Lotus Petal
+5 Mana Confluence
+5 Mana Crypt
+4 Mana Drain
+4 Mana Vault
+5 Marsh Flats
+5 Mental Misstep
+5 Misty Rainforest
+5 Morphic Pool
+5 Mox Diamond
+1 Mox Opal
+5 Mystic Remora
+5 Mystical Tutor
+5 Necropotence
+5 Neoform
+5 Noxious Revival
+2 Oakhame Adversary
+5 Overgrown Tomb
+5 Pact of Negation
+5 Plunge into Darkness
+5 Polluted Delta
+4 Ponder
+2 Preordain
+5 Rhystic Study
+5 Scalding Tarn
+5 Sol Ring
+3 Spell Pierce
+5 Swan Song
+5 Sylvan Library
+5 Tainted Pact
+3 Tarnished Citadel
+5 Thassa's Oracle
+5 Tropical Island
+5 Underground Sea
+5 Vampiric Tutor
+5 Veil of Summer
+5 Verdant Catacombs
+5 Waterlogged Grove
+5 Watery Grave
+2 Wild Growth
+5 Windswept Heath
+4 Wishclaw Talisman
+5 Wooded Foothills
+2 Worldly Tutor
+5 Yavimaya Coast
+4 Yawgmoth's Will
+2 Boreal Druid
+1 Cabal Ritual
+1 Grim Monolith
+1 Lion's Eye Diamond
+4 Nurturing Peatland
+1 Phantasmal Image
+2 Praetor's Grasp
+2 Rain of Filth
+4 Timetwister
+2 Windfall
+3 Eldritch Evolution
+1 Green Sun's Zenith
+2 Laboratory Maniac
+2 Underground River
+1 Cyclonic Rift
+1 Muddle the Mixture
+2 Nature's Claim
+2 Priest of Titania
+1 Spellseeker
+1 Notion Thief
+1 Bloom Tender
+1 Delay
+1 Toxic Deluge
+
+NON_STAPLES:
+1 Aluren
+4 Autumn's Veil
+1 Cavern Harpy
+5 Cazur, Ruthless Stalker
+2 Dryad Arbor
+3 Elvish Spirit Guide
+5 Eternal Scourge
+5 Food Chain
+3 Foresight
+5 Lim-Dûl's Vault
+4 Manipulate Fate
+5 Miscast
+5 Misthollow Griffin
+5 Ukkima, Stalking Shadow
+5 Wall of Roots
+2 Extract
+2 Hullbreacher
+2 Opposition Agent
+1 Rejuvenating Springs
+1 Undergrowth Stadium
+1 Dread Return
+1 Fatestitcher
+1 Hermit Druid
+1 Lightning Greaves
+1 Memory's Journey
+1 Narcomoeba
+1 Postmortem Lunge
+1 Mnemonic Betrayal
+1 Snow-Covered Forest
+2 Snow-Covered Island
+2 Snow-Covered Swamp
+1 Forest
+1 Compost
+1 Pongify
+1 Rapid Hybridization

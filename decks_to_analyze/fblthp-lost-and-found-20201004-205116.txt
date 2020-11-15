@@ -1,0 +1,83 @@
+1 Academy Ruins
+1 Ancient Tomb
+1 Arcane Signet
+1 Basalt Monolith
+1 Blink of an Eye
+1 Brainstorm
+1 Buried Ruin
+1 Capsize
+1 Chain of Vapor
+1 Chrome Mox
+1 Codex Shredder
+1 Copy Artifact
+1 Counterspell
+1 Cursed Totem
+1 Cyclonic Rift
+1 Delay
+1 Dispel
+1 Dramatic Reversal
+1 Echo of Eons
+1 Emergence Zone
+1 Fabricate
+1 Fblthp, the Lost
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Will
+1 Frantic Search
+1 Gilded Lotus
+1 Gitaxian Probe
+1 Grim Monolith
+1 Gush
+1 High Tide
+1 Impulse
+1 Intuition
+1 Inventors' Fair
+18 Island
+1 Isochron Scepter
+1 Karn, the Great Creator
+1 Lion's Eye Diamond
+1 Lithoform Engine
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Misty Rainforest
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Narset's Reversal
+1 Negate
+1 Nexus of Fate
+1 Pact of Negation
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Proteus Staff
+1 Reality Shift
+1 Reshape
+1 Rhystic Study
+1 Rings of Brighthearth
+1 Scalding Tarn
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Sensei's Divining Top
+1 Sol Ring
+1 Steal Enchantment
+1 Stifle
+1 Swan Song
+1 Tezzeret the Seeker
+1 Timetwister
+1 Transmute Artifact
+1 Verity Circle
+1 Voltaic Key
+1 Whir of Invention
+1 Windfall
+1 Winds of Rebuke

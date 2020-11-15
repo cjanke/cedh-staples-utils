@@ -1,0 +1,134 @@
+STAPLES:
+2 Ancient Tomb
+3 Arcane Signet
+3 Birds of Paradise
+3 Bloom Tender
+3 Brainstorm
+3 Breeding Pool
+3 Carpet of Flowers
+2 Cephalid Coliseum
+2 Chain of Vapor
+3 Chrome Mox
+3 City of Brass
+3 Command Tower
+2 Copy Artifact
+3 Cyclonic Rift
+2 Delay
+2 Dispel
+3 Dramatic Reversal
+3 Elvish Mystic
+2 Exotic Orchard
+3 Fabricate
+2 Fellwar Stone
+3 Fierce Guardianship
+3 Finale of Devastation
+3 Flooded Strand
+3 Flusterstorm
+3 Forbidden Orchard
+3 Force of Will
+3 Fyndhorn Elves
+3 Gemstone Caverns
+3 Gilded Drake
+2 Gitaxian Probe
+3 Green Sun's Zenith
+3 Isochron Scepter
+3 Llanowar Elves
+2 Lotus Petal
+3 Mana Confluence
+3 Mana Crypt
+3 Mana Drain
+3 Mana Vault
+3 Mental Misstep
+3 Misty Rainforest
+3 Mox Amber
+3 Mox Diamond
+2 Muddle the Mixture
+3 Mystic Remora
+3 Mystical Tutor
+3 Noxious Revival
+3 Pact of Negation
+1 Phantasmal Image
+3 Polluted Delta
+2 Ponder
+2 Preordain
+3 Prismatic Vista
+3 Rhystic Study
+3 Scalding Tarn
+3 Sol Ring
+3 Spellseeker
+3 Swan Song
+3 Sylvan Library
+3 Talisman of Curiosity
+1 Tarnished Citadel
+3 Timetwister
+3 Transmute Artifact
+3 Tropical Island
+3 Veil of Summer
+3 Verdant Catacombs
+3 Waterlogged Grove
+2 Windfall
+3 Windswept Heath
+3 Wooded Foothills
+3 Worldly Tutor
+2 Yavimaya Coast
+1 Cavern of Souls
+1 Chord of Calling
+1 Crop Rotation
+1 Emergence Zone
+1 Eternal Witness
+1 Force of Negation
+2 Force of Vigor
+1 Gaea's Cradle
+1 Nature's Claim
+1 Priest of Titania
+1 Mox Opal
+
+NON_STAPLES:
+3 Arcum's Astrolabe
+3 Basalt Monolith
+1 Blink of an Eye
+2 Consecrated Sphinx
+1 Into the Roil
+3 Kinnan, Bonder Prodigy
+2 Mirage Mirror
+1 Miscast
+2 Phyrexian Metamorph
+2 Prophet of Distortion
+1 Prophetic Prism
+3 Pull from Tomorrow
+2 Regrowth
+2 Reshape
+1 Shared Summons
+2 Simic Signet
+12 Snow-Covered Forest
+8 Snow-Covered Island
+2 Springleaf Drum
+2 Stroke of Genius
+3 Tezzeret the Seeker
+3 Thrasios, Triton Hero
+3 Trophy Mage
+1 Castle Garenbrig
+1 Drift of Phantasms
+1 Freed from the Real
+1 Incubation Druid
+1 Intruder Alarm
+1 Joraga Treespeaker
+1 Lightning Greaves
+1 Nykthos, Shrine to Nyx
+1 Paradise Druid
+1 Paradise Mantle
+1 Pemmin's Aura
+1 Prismatic Lens
+2 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Staff of Domination
+1 Summoner's Pact
+1 Sylvan Caryatid
+1 Temur Sabertooth
+1 Thousand-Year Elixir
+2 Tidespout Tyrant
+1 Wirewood Symbiote
+1 Recurring Insight
+1 Rejuvenating Springs
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Sylvan Tutor

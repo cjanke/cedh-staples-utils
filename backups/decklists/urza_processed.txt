@@ -1,0 +1,111 @@
+STAPLES:
+4 Ancient Tomb
+4 Back to Basics
+4 Brainstorm
+4 Chain of Vapor
+4 Chrome Mox
+4 Copy Artifact
+4 Counterspell
+4 Cyclonic Rift
+4 Delay
+3 Dig Through Time
+4 Dispel
+4 Dramatic Reversal
+4 Fabricate
+4 Flooded Strand
+4 Flusterstorm
+4 Force of Negation
+4 Force of Will
+2 Gilded Drake
+4 Gitaxian Probe
+2 Grafdigger's Cage
+4 Grim Monolith
+1 Impulse
+4 Intuition
+4 Inventors' Fair
+4 Isochron Scepter
+4 Lotus Petal
+4 Mana Crypt
+4 Mana Drain
+4 Mana Vault
+4 Mental Misstep
+4 Merchant Scroll
+4 Misty Rainforest
+4 Mox Diamond
+4 Mox Opal
+4 Muddle the Mixture
+4 Mystic Remora
+4 Mystical Tutor
+4 Narset's Reversal
+4 Narset, Parter of Veils
+1 Negate
+4 Pact of Negation
+4 Polluted Delta
+4 Ponder
+4 Preordain
+4 Prismatic Vista
+4 Rhystic Study
+4 Scalding Tarn
+4 Sensei's Divining Top
+4 Sol Ring
+2 Spellseeker
+4 Swan Song
+3 The Tabernacle at Pendrell Vale
+4 Timetwister
+4 Transmute Artifact
+4 Whir of Invention
+4 Windfall
+3 Fierce Guardianship
+3 Gemstone Caverns
+3 Mystic Sanctuary
+1 Spell Pierce
+
+NON_STAPLES:
+2 Academy Ruins
+4 Arcum's Astrolabe
+3 Blast Zone
+1 Codex Shredder
+1 Etherium Sculptor
+4 Everflowing Chalice
+3 Fact or Fiction
+1 Future Sight
+4 Jeweled Amulet
+4 Mishra's Bauble
+4 Power Artifact
+4 Recurring Insight
+2 Reshape
+4 Sapphire Medallion
+3 Saprazzan Skerry
+68 Snow-Covered Island
+2 Spellskite
+4 Static Orb
+4 Tezzeret the Seeker
+4 Time Spiral
+3 Trail of Evidence
+3 Urza's Bauble
+4 Urza, Lord High Artificer
+4 Winter Orb
+4 Witching Well
+3 Aether Spellbomb
+3 Jeweled Lotus
+1 Legacy's Allure
+1 Lodestone Bauble
+1 Paradoxical Outcome
+2 Personal Tutor
+2 Polymorph
+2 Proteus Staff
+2 Reality Shift
+2 Steal Enchantment
+2 Tidespout Tyrant
+1 Tolaria West
+3 Trinisphere
+2 War Room
+1 Crystal Vein
+1 Hullbreacher
+1 Phyrexian Metamorph
+1 Rapid Hybridization
+1 City of Traitors
+1 Miscast
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Tangle Wire
+1 Tormod's Crypt

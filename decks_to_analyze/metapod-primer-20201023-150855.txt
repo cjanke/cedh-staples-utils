@@ -1,0 +1,139 @@
+1 Abrupt Decay
+1 Ancient Tomb
+1 Arbor Elf
+1 Archon of Emeria
+1 Arid Mesa
+1 Assassin's Trophy
+1 Aura of Silence
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Badlands
+1 Bayou
+1 Birds of Paradise
+1 Birthing Pod
+1 Blood Moon
+1 Bloodstained Mire
+1 Bloom Tender
+1 Carpet of Flowers
+1 City of Brass
+1 Collector Ouphe
+1 Command Tower
+1 Dark Confidant
+1 Deafening Silence
+1 Deathrite Shaman
+1 Deflecting Swat
+1 Demonic Tutor
+1 Destiny Spinner
+1 Diabolic Intent
+1 Dockside Extortionist
+1 Drannith Magistrate
+1 Eladamri's Call
+1 Eldritch Evolution
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Enlightened Tutor
+1 Felidar Guardian
+1 Finale of Devastation
+1 Fire Covenant
+1 Flooded Strand
+1 Force of Vigor
+1 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Goblin Sharpshooter
+1 Horizon Canopy
+1 Imperial Seal
+1 Karmic Guide
+1 Kiki-Jiki, Mirror Breaker
+1 Leyline of the Void
+1 Linvala, Keeper of Silence
+1 Llanowar Elves
+1 Loyal Apprentice
+1 Magus of the Moon
+1 Mana Confluence
+1 Mana Crypt
+1 Marsh Flats
+1 Misty Rainforest
+1 Mox Diamond
+1 Necromancy
+1 Noxious Revival
+1 Null Rod
+1 Nurturing Peatland
+1 Oakhame Adversary
+1 Overgrown Tomb
+1 Plateau
+1 Polluted Delta
+1 Pyroblast
+1 Quirion Ranger
+1 Red Elemental Blast
+1 Root Maze
+1 Savannah
+1 Scrubland
+1 Sire of Insanity
+1 Snow-Covered Forest
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Splinter Twin
+1 Stomping Ground
+1 Stranglehold
+1 Survival of the Fittest
+1 Sylvan Library
+1 Taiga
+1 Tana, the Bloodsower
+1 Tangle Wire
+1 Tarnished Citadel
+1 Temple Garden
+1 Thalia, Guardian of Thraben
+1 Trinisphere
+1 Tymna the Weaver
+1 Vampiric Tutor
+1 Veil of Summer
+1 Verdant Catacombs
+1 Vexing Shusher
+1 Village Bell-Ringer
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+1 Yisan, the Wanderer Bard
+1 Zealous Persecution
+
+SIDEBOARD:
+1 Anafenza, the Foremost
+1 Animate Dead
+1 Autumn's Veil
+1 Azra Oddsmaker
+1 Buried Alive
+1 Chrome Mox
+1 Compost
+1 Eidolon of Rhetoric
+1 Electrickery
+1 Elesh Norn, Grand Cenobite
+1 Entomb
+1 Ethersworn Canonist
+1 Faeburrow Elder
+1 Fry
+1 Goblin Bombardment
+1 Green Sun's Zenith
+1 Imp's Mischief
+1 Inferno Titan
+1 Life / Death
+1 Luminarch Ascension
+1 Manglehorn
+1 Mayhem Devil
+1 Meltdown
+1 Mindblade Render
+1 Nature's Claim
+1 Ohran Frostfang
+1 Priest of Titania
+1 Reanimate
+1 Reap
+1 Rest in Peace
+1 Rhythm of the Wild
+1 Rule of Law
+1 Runic Armasaur
+1 Silence
+1 Sphere of Resistance
+1 Vivien, Monsters' Advocate
+1 Worldly Tutor

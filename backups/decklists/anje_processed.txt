@@ -1,0 +1,261 @@
+STAPLES:
+4 Ancient Tomb
+4 Back to Basics
+4 Brainstorm
+4 Chain of Vapor
+8 Chrome Mox
+4 Copy Artifact
+4 Counterspell
+4 Cyclonic Rift
+4 Delay
+3 Dig Through Time
+4 Dispel
+4 Dramatic Reversal
+4 Fabricate
+4 Flooded Strand
+4 Flusterstorm
+4 Force of Negation
+4 Force of Will
+2 Gilded Drake
+4 Gitaxian Probe
+2 Grafdigger's Cage
+4 Grim Monolith
+1 Impulse
+4 Intuition
+4 Inventors' Fair
+4 Isochron Scepter
+8 Lotus Petal
+8 Mana Crypt
+4 Mana Drain
+5 Mana Vault
+4 Mental Misstep
+4 Merchant Scroll
+4 Misty Rainforest
+8 Mox Diamond
+5 Mox Opal
+4 Muddle the Mixture
+4 Mystic Remora
+4 Mystical Tutor
+4 Narset's Reversal
+4 Narset, Parter of Veils
+1 Negate
+4 Pact of Negation
+8 Polluted Delta
+4 Ponder
+4 Preordain
+6 Prismatic Vista
+4 Rhystic Study
+8 Scalding Tarn
+4 Sensei's Divining Top
+8 Sol Ring
+2 Spellseeker
+4 Swan Song
+3 The Tabernacle at Pendrell Vale
+4 Timetwister
+4 Transmute Artifact
+4 Whir of Invention
+4 Windfall
+3 Animate Dead
+4 Arid Mesa
+4 Badlands
+4 Blood Crypt
+4 Bloodstained Mire
+3 Cabal Ritual
+2 City of Brass
+4 Command Tower
+2 Culling the Weak
+3 Dance of the Dead
+4 Dark Ritual
+4 Deflecting Swat
+4 Demonic Tutor
+4 Dockside Extortionist
+3 Entomb
+3 Exotic Orchard
+2 Forbidden Orchard
+4 Gamble
+6 Gemstone Caverns
+4 Imperial Seal
+3 Lion's Eye Diamond
+4 Luxury Suite
+3 Mana Confluence
+4 Marsh Flats
+2 Mox Amber
+3 Necromancy
+1 Necropotence
+4 Pyroblast
+1 Razaketh, the Foulblooded
+1 Reanimate
+4 Red Elemental Blast
+3 Underworld Breach
+4 Vampiric Tutor
+4 Verdant Catacombs
+3 Wishclaw Talisman
+4 Wooded Foothills
+2 Emergence Zone
+1 Fire Covenant
+3 Simian Spirit Guide
+3 Wheel of Fortune
+3 Fierce Guardianship
+3 Mystic Sanctuary
+2 Cavern of Souls
+2 Tainted Pact
+1 Tarnished Citadel
+1 Ad Nauseam
+1 Arcane Signet
+1 Dark Confidant
+1 Demonic Consultation
+1 Fellwar Stone
+1 Praetor's Grasp
+1 Rain of Filth
+1 Urborg, Tomb of Yawgmoth
+1 Spell Pierce
+
+NON_STAPLES:
+2 Academy Ruins
+4 Arcum's Astrolabe
+3 Blast Zone
+1 Codex Shredder
+1 Etherium Sculptor
+4 Everflowing Chalice
+3 Fact or Fiction
+1 Future Sight
+7 Jeweled Amulet
+4 Mishra's Bauble
+4 Power Artifact
+4 Recurring Insight
+2 Reshape
+4 Sapphire Medallion
+3 Saprazzan Skerry
+68 Snow-Covered Island
+2 Spellskite
+4 Static Orb
+4 Tezzeret the Seeker
+4 Time Spiral
+3 Trail of Evidence
+3 Urza's Bauble
+4 Urza, Lord High Artificer
+4 Winter Orb
+4 Witching Well
+3 Abrade
+1 Aetherflux Reservoir
+4 Anje Falkenrath
+4 Anje's Ravager
+3 Archfiend of Spite
+1 Ash Barrens
+4 Asylum Visitor
+4 Avacyn's Judgment
+2 Bag of Holding
+4 Big Game Hunter
+3 Biting Rain
+4 Bloodhall Priest
+1 Bone Miser
+3 Brain Gorgers
+1 Burnt Offering
+4 Call to the Netherworld
+2 Chaos Warp
+2 Cloudstone Curio
+1 Corpse Dance
+2 Curse of Fool's Wisdom
+3 Dark Withering
+1 Electrodominance
+1 Feed the Swarm
+4 Fiery Temper
+1 Finale of Promise
+3 Gorgon Recluse
+4 Grave Scrabbler
+3 Imp's Mischief
+5 Jeweled Lotus
+2 Mausoleum Secrets
+3 Merchant of the Vale / Haggle
+2 Mogg Salvage
+8 Mountain
+3 Muck Drubb
+3 Nightshade Assassin
+2 Opposition Agent
+3 Psychotic Haze
+1 Ricochet Trap
+4 Shadow of the Grave
+2 Shadowblood Ridge
+1 Shallow Grave
+1 Shimmer Myr
+1 Sire of Insanity
+4 Stromkirk Occultist
+4 Sulfurous Springs
+12 Swamp
+1 Thunderclap
+1 Vilis, Broker of Blood
+2 Voldaren Pariah / Abolisher of Bloodlines
+3 Weirded Vampire
+3 Worldgorger Dragon
+3 Abandon Reason
+2 Alchemist's Greeting
+3 Alms of the Vein
+1 Azra Oddsmaker
+3 Blood Pet
+3 Bloodmad Vampire
+1 Comet Storm
+1 Deadly Rollick
+2 Gibbering Descent
+2 Gisa's Bidding
+1 Goblin Sharpshooter
+1 Grim Tutor
+3 Ichor Slick
+2 Incorrigible Youths
+3 Insatiable Gorgers
+2 Malevolent Whispers
+3 Murderous Compulsion
+3 Psychotic Episode
+2 Reckless Wurm
+3 Rite of Flame
+2 Skirk Prospector
+1 Slaughter Pact
+1 Splinter Twin
+3 Strength of Lunacy
+1 Sunscorched Desert
+2 Twins of Maurer Estate
+2 Ulamog, the Infinite Gyre
+2 Violent Eruption
+3 Aether Spellbomb
+1 Legacy's Allure
+1 Lodestone Bauble
+1 Paradoxical Outcome
+2 Personal Tutor
+2 Polymorph
+2 Proteus Staff
+2 Reality Shift
+2 Steal Enchantment
+2 Tidespout Tyrant
+1 Tolaria West
+3 Trinisphere
+2 War Room
+1 Cabal Pit
+2 Distemper of the Blood
+1 From Under the Floorboards
+2 Gemstone Mine
+2 Senseless Rage
+2 Snow-Covered Mountain
+2 Snow-Covered Swamp
+2 Stensia Masquerade
+1 Crystal Vein
+1 Hullbreacher
+1 Phyrexian Metamorph
+1 Rapid Hybridization
+1 Burning Inquiry
+1 Dualcaster Mage
+1 Duress
+1 Faithless Looting
+1 Graven Cairns
+1 Grinding Station
+1 Peat Bog
+1 Rakdos Signet
+1 Sandstone Needle
+1 Songs of the Damned
+1 Stitcher's Supplier
+1 Talisman of Indulgence
+1 Thoughtseize
+1 Twinflame
+1 City of Traitors
+1 Miscast
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Tangle Wire
+1 Tormod's Crypt

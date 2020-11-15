@@ -1,0 +1,109 @@
+STAPLES:
+2 Dark Confidant
+2 Fellwar Stone
+2 Notion Thief
+2 Dockside Extortionist
+2 Gilded Drake
+2 Thassa's Oracle
+2 Demonic Consultation
+2 Dimir Signet
+2 Arcane Signet
+2 Cursed Totem
+2 Grim Monolith
+2 Mystic Remora
+2 Dramatic Reversal
+2 Sol Ring
+2 Cabal Ritual
+2 Tainted Pact
+2 Intuition
+2 Talisman of Creativity
+2 Talisman of Dominance
+2 Lotus Petal
+2 Rhystic Study
+2 Pact of Negation
+2 Brainstorm
+2 Chain of Vapor
+2 Dark Ritual
+2 Flusterstorm
+2 Mental Misstep
+2 Ad Nauseam
+2 Force of Will
+2 Gamble
+2 Imperial Seal
+2 Ponder
+2 Preordain
+2 Demonic Tutor
+2 Timetwister
+2 Toxic Deluge
+2 Dispel
+2 Chrome Mox
+2 Jace, Vryn's Prodigy
+2 Jace, Wielder of Mysteries
+2 Drown in the Loch
+2 Necropotence
+2 Gitaxian Probe
+2 Counterspell
+2 Delay
+2 Wheel of Fortune
+2 Windfall
+2 Yawgmoth's Will
+2 Underworld Breach
+1 Force of Negation
+2 Mana Crypt
+2 Mox Diamond
+2 Mox Opal
+2 Mana Vault
+2 Copy Artifact
+2 Mystical Tutor
+2 Red Elemental Blast
+2 Swan Song
+2 Vampiric Tutor
+2 Mana Drain
+2 Plunge into Darkness
+2 Snap
+1 Wishclaw Talisman
+2 Lion's Eye Diamond
+2 Brain Freeze
+2 Steam Vents
+2 Tarnished Citadel
+2 Underground River
+2 Underground Sea
+2 Verdant Catacombs
+2 Volcanic Island
+2 Watery Grave
+2 Ancient Tomb
+2 Arid Mesa
+2 Exotic Orchard
+2 Misty Rainforest
+2 Mana Confluence
+2 Badlands
+2 Cephalid Coliseum
+2 Fiery Islet
+2 Flooded Strand
+2 Forbidden Orchard
+2 Gemstone Caverns
+2 Marsh Flats
+2 Morphic Pool
+2 Polluted Delta
+2 Bloodstained Mire
+2 City of Brass
+2 Command Tower
+2 Scalding Tarn
+2 Wooded Foothills
+1 Lim-Dul's Vault
+1 Opt
+1 Pyroblast
+1 Reanimate
+
+NON_STAPLES:
+1 Sleight of Hand
+2 Pyroclasm
+1 Mind's Desire
+1 Lim-Dûl's Vault
+2 Miscast
+1 Snow-Covered Swamp
+2 Snow-Covered Island
+2 Island
+2 Kess, Dissident Mage
+1 Steal Enchantment
+1 Swamp

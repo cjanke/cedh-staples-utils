@@ -1,0 +1,118 @@
+STAPLES:
+2 Ad Nauseam
+2 Ancient Tomb
+2 Arcane Signet
+2 Bloodstained Mire
+2 Brainstorm
+1 Cabal Ritual
+2 Chain of Vapor
+2 Chrome Mox
+1 City of Brass
+2 Command Tower
+2 Copy Artifact
+2 Counterspell
+2 Cyclonic Rift
+2 Dark Confidant
+2 Dark Ritual
+2 Delay
+1 Demonic Consultation
+2 Demonic Tutor
+2 Dimir Signet
+2 Dispel
+2 Dramatic Reversal
+2 Drown in the Loch
+2 Fellwar Stone
+2 Flooded Strand
+2 Flusterstorm
+2 Force of Negation
+2 Force of Will
+1 Frantic Search
+2 Gemstone Caverns
+2 Gitaxian Probe
+2 Grim Monolith
+1 High Tide
+1 Imperial Seal
+2 Isochron Scepter
+1 Lion's Eye Diamond
+2 Lotus Petal
+1 Mana Confluence
+2 Mana Crypt
+2 Mana Drain
+2 Mana Vault
+2 Marsh Flats
+2 Mental Misstep
+2 Merchant Scroll
+2 Misty Rainforest
+2 Morphic Pool
+2 Mox Diamond
+2 Mox Opal
+2 Muddle the Mixture
+2 Mystic Remora
+2 Mystical Tutor
+2 Narset's Reversal
+2 Necropotence
+2 Negate
+2 Notion Thief
+2 Pact of Negation
+1 Plunge into Darkness
+2 Polluted Delta
+2 Ponder
+2 Preordain
+2 Prismatic Vista
+2 Scalding Tarn
+2 Sensei's Divining Top
+1 Snap
+2 Sol Ring
+2 Swan Song
+2 Talisman of Dominance
+1 Thassa's Oracle
+1 Timetwister
+2 Toxic Deluge
+2 Transmute Artifact
+2 Underground River
+2 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+2 Vampiric Tutor
+2 Verdant Catacombs
+2 Watery Grave
+2 Windfall
+1 Wishclaw Talisman
+2 Yawgmoth's Will
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 Fierce Guardianship
+1 Gilded Drake
+1 Impulse
+1 Narset, Parter of Veils
+1 Opt
+1 Rhystic Study
+1 Spellseeker
+1 Winds of Rebuke
+
+NON_STAPLES:
+1 Candelabra of Tawnos
+1 Dark Petition
+1 Everflowing Chalice
+13 Island
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+2 Lim-Dûl's Vault
+1 Mind's Desire
+2 Oona, Queen of the Fae
+2 Power Artifact
+1 Scroll Rack
+1 Sleight of Hand
+2 Steal Enchantment
+1 Sunken Hollow
+2 Sunken Ruins
+4 Swamp
+1 Ashiok, Dream Render
+1 Black Sun's Zenith
+1 Feed the Swarm
+1 Grim Tutor
+1 Hullbreacher
+1 Jeweled Lotus
+1 Opposition Agent
+1 Reflecting Pool
+1 Reliquary Tower
+1 Reshape
+1 Snapcaster Mage

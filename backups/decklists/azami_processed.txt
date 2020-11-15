@@ -1,0 +1,100 @@
+STAPLES:
+2 Ancient Tomb
+2 Arcane Signet
+2 Back to Basics
+1 Baral, Chief of Compliance
+2 Brainstorm
+2 Cavern of Souls
+2 Chrome Mox
+2 Copy Artifact
+2 Counterspell
+2 Cyclonic Rift
+2 Delay
+2 Dig Through Time
+2 Dispel
+2 Dramatic Reversal
+2 Fabricate
+2 Fellwar Stone
+2 Fierce Guardianship
+2 Flooded Strand
+2 Flusterstorm
+2 Force of Negation
+2 Force of Will
+2 Gemstone Caverns
+2 Gitaxian Probe
+2 Grim Monolith
+2 High Tide
+1 Impulse
+2 Isochron Scepter
+1 Jace, Vryn's Prodigy
+2 Jace, Wielder of Mysteries
+2 Lotus Petal
+2 Mana Crypt
+2 Mana Drain
+2 Mana Vault
+2 Mental Misstep
+2 Merchant Scroll
+2 Misty Rainforest
+2 Mox Diamond
+2 Mox Opal
+2 Muddle the Mixture
+2 Mystic Remora
+2 Mystic Sanctuary
+2 Mystical Tutor
+2 Narset's Reversal
+2 Narset, Parter of Veils
+1 Negate
+2 Pact of Negation
+2 Polluted Delta
+2 Ponder
+2 Preordain
+2 Rhystic Study
+2 Scalding Tarn
+1 Sensei's Divining Top
+2 Sol Ring
+2 Spellseeker
+2 Swan Song
+2 Thassa's Oracle
+2 Timetwister
+2 Whir of Invention
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Gilded Drake
+1 Phantasmal Image
+1 Prismatic Vista
+1 Spell Pierce
+1 Winds of Rebuke
+
+NON_STAPLES:
+2 Arcum's Astrolabe
+2 Azami, Lady of Scrolls
+1 Blink of an Eye
+2 Coalition Relic
+2 Cursecatcher
+1 Glen Elendra Archmage
+1 Into the Roil
+1 Jeweled Lotus
+2 Martyr of Frost
+2 Minamo, School at Water's Edge
+2 Misdirection
+2 Paradigm Shift
+2 Personal Tutor
+2 Rapid Hybridization
+2 Reality Shift
+2 Sapphire Medallion
+2 Saprazzan Skerry
+1 Sea Gate Restoration
+2 Sea Gate Stormcaller
+1 Siren Stormtamer
+2 Snapcaster Mage
+37 Snow-Covered Island
+2 Tribute Mage
+2 Trinket Mage
+1 Aphetto Alchemist
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+1 Miscast
+1 Relic of Progenitus
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Serum Visions
+1 Treasure Cruise
+1 Submerge

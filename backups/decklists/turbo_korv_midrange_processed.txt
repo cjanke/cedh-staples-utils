@@ -1,0 +1,136 @@
+STAPLES:
+2 Abrupt Decay
+2 Ad Nauseam
+2 Ancient Tomb
+2 Arcane Signet
+2 Arid Mesa
+2 Badlands
+2 Bayou
+2 Birds of Paradise
+2 Blood Crypt
+2 Bloodstained Mire
+2 Cabal Ritual
+2 Carpet of Flowers
+2 Chrome Mox
+2 City of Brass
+2 Command Tower
+2 Crop Rotation
+2 Culling the Weak
+2 Dark Ritual
+2 Deathrite Shaman
+2 Deflecting Swat
+2 Demonic Tutor
+2 Diabolic Intent
+2 Dockside Extortionist
+2 Elves of Deep Shadow
+2 Eternal Witness
+2 Exotic Orchard
+2 Fellwar Stone
+2 Finale of Devastation
+2 Gamble
+2 Gemstone Caverns
+1 Grim Monolith
+2 Imperial Seal
+2 Lion's Eye Diamond
+2 Lotus Petal
+1 Luxury Suite
+2 Mana Confluence
+2 Mana Crypt
+2 Mana Vault
+2 Marsh Flats
+2 Misty Rainforest
+2 Mox Diamond
+1 Mox Opal
+2 Necropotence
+2 Noxious Revival
+2 Overgrown Tomb
+1 Phyrexian Tower
+2 Polluted Delta
+2 Praetor's Grasp
+2 Pyroblast
+2 Rain of Filth
+2 Reanimate
+2 Red Elemental Blast
+2 Scalding Tarn
+2 Simian Spirit Guide
+2 Sol Ring
+2 Stomping Ground
+2 Taiga
+2 Tainted Pact
+2 Underworld Breach
+2 Vampiric Tutor
+2 Veil of Summer
+2 Verdant Catacombs
+2 Wheel of Fortune
+2 Windswept Heath
+2 Wishclaw Talisman
+2 Wooded Foothills
+2 Worldly Tutor
+1 Force of Vigor
+1 Toxic Deluge
+1 Animate Dead
+1 Arbor Elf
+1 Dance of the Dead
+1 Destiny Spinner
+1 Eldritch Evolution
+1 Elvish Mystic
+1 Emergence Zone
+1 Entomb
+1 Forbidden Orchard
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Nature's Claim
+1 Necromancy
+1 Nurturing Peatland
+1 Prismatic Vista
+1 Razaketh, the Foulblooded
+
+NON_STAPLES:
+1 Abrade
+2 Autumn's Veil
+1 Burnt Offering
+1 Corpse Dance
+1 Dualcaster Mage
+2 Elvish Spirit Guide
+1 Grinding Station
+2 Infernal Plunge
+1 Jeska's Will
+2 Jeweled Lotus
+2 Korvold, Fae-Cursed King
+1 Manamorphose
+1 Mayhem Devil
+2 Opposition Agent
+1 Orcish Lumberjack
+1 Peer into the Abyss
+1 Rite of Flame
+1 Sacrifice
+2 Skirk Prospector
+1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Spire of Industry
+2 Stitcher's Supplier
+1 Sulfurous Springs
+1 Talisman of Indulgence
+2 Talisman of Resilience
+2 Tinder Wall
+1 Twinflame
+1 Undergrowth Stadium
+1 Unearth
+1 Village Rites
+1 Viscera Seer
+1 Wheel of Misfortune
+1 Boseiju, Who Shelters All
+1 Kolaghan's Command
+1 Meltdown
+1 Reverent Silence
+1 Agadeem's Awakening / Agadeem, the Undercrypt
+1 Faithless Looting
+1 Final Fortune
+1 Forest
+1 Hope of Ghirapur
+1 Life / Death
+1 Slaughter Pact
+1 Spire Garden
+1 Squandered Resources
+1 Swamp
+1 Temur Sabertooth

@@ -1,0 +1,132 @@
+STAPLES:
+3 Ad Nauseam
+3 Ancient Tomb
+3 Arcane Signet
+3 Arid Mesa
+3 Badlands
+3 Bloodstained Mire
+3 Brainstorm
+2 Cabal Ritual
+3 Cephalid Coliseum
+3 Chain of Vapor
+3 Chrome Mox
+3 City of Brass
+3 Command Tower
+3 Culling the Weak
+2 Dark Confidant
+3 Dark Ritual
+3 Demonic Consultation
+3 Demonic Tutor
+2 Dimir Signet
+3 Dispel
+3 Dockside Extortionist
+1 Dramatic Reversal
+3 Entomb
+3 Exotic Orchard
+3 Fellwar Stone
+3 Flooded Strand
+3 Flusterstorm
+2 Forbidden Orchard
+3 Force of Will
+3 Gamble
+2 Gemstone Caverns
+3 Gilded Drake
+2 Gitaxian Probe
+1 Grim Monolith
+3 Imperial Seal
+3 Intuition
+1 Lion's Eye Diamond
+3 Lotus Petal
+3 Mana Confluence
+3 Mana Crypt
+3 Mana Drain
+3 Mana Vault
+3 Marsh Flats
+3 Mental Misstep
+3 Misty Rainforest
+3 Morphic Pool
+3 Mox Diamond
+2 Mox Opal
+3 Mystic Remora
+3 Mystical Tutor
+3 Necropotence
+3 Pact of Negation
+3 Phantasmal Image
+3 Polluted Delta
+3 Ponder
+1 Praetor's Grasp
+2 Preordain
+2 Pyroblast
+3 Reanimate
+3 Red Elemental Blast
+3 Rhystic Study
+3 Scalding Tarn
+3 Simian Spirit Guide
+3 Snap
+3 Sol Ring
+3 Spellseeker
+3 Steam Vents
+3 Swan Song
+3 Tainted Pact
+3 Talisman of Dominance
+2 Tarnished Citadel
+3 Thassa's Oracle
+2 Underground River
+3 Underground Sea
+3 Underworld Breach
+3 Vampiric Tutor
+3 Verdant Catacombs
+3 Volcanic Island
+3 Watery Grave
+3 Wheel of Fortune
+2 Winds of Rebuke
+3 Wishclaw Talisman
+3 Wooded Foothills
+1 Yawgmoth's Will
+2 Cyclonic Rift
+2 Notion Thief
+1 Spell Pierce
+2 Windfall
+1 Blood Crypt
+1 Cursed Totem
+1 Fiery Islet
+1 Jace, Vryn's Prodigy
+1 Lim-Dul's Vault
+1 Plunge into Darkness
+1 Prismatic Vista
+1 Sensei's Divining Top
+1 Talisman of Creativity
+
+NON_STAPLES:
+2 Aether Adept
+1 Archaeomancer
+1 Blood Pet
+3 Burnt Offering
+3 Finale of Promise
+3 Inalla, Archmage Ritualist
+3 Island
+1 Izzet Signet
+1 Jeweled Amulet
+3 Miscast
+1 Rite of Flame
+3 Shallow Grave
+1 Shivan Reef
+3 Snow-Covered Island
+3 Swamp
+3 Unearth
+1 Agadeem's Awakening / Agadeem, the Undercrypt
+1 Daze
+2 Essence Flux
+1 Faithless Looting
+1 Grim Tutor
+1 Hullbreacher
+1 Imperial Recruiter
+1 Lim-Dûl's Vault
+1 Misdirection
+2 Opposition Agent
+2 Scholar of the Ages
+1 Stifle
+1 Vedalken Aethermage
+1 Wheel of Misfortune
+1 Exhume
+1 Snow-Covered Swamp

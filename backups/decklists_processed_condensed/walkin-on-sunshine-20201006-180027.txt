@@ -1,0 +1,98 @@
+1 Abeyance
+1 Aether Vial
+1 Alseid of Life's Bounty
+1 Ancient Tomb
+1 Angel's Grace
+1 Archon of Emeria
+1 Argivian Find
+1 Arid Mesa
+1 Ashes of the Abhorrent
+1 Aura of Silence
+1 Aven Mindcensor
+1 Blast Zone
+1 Buried Ruin
+1 Cavern of Souls
+1 Chrome Mox
+1 Containment Priest
+1 Deafening Silence
+1 Disenchant
+1 Drannith Magistrate
+1 Eidolon of Rhetoric
+1 Emeria's Call / Emeria, Shattered Skyclave
+1 Enlightened Tutor
+1 Ethersworn Canonist
+1 Flooded Strand
+1 Fragmentize
+1 Generous Gift
+1 Giver of Runes
+1 Grafdigger's Cage
+1 Grand Abolisher
+1 Grim Monolith
+1 Heliod, Sun-Crowned
+1 Heliod's Intervention
+1 High Market
+1 Hushbringer
+1 Hushwing Gryff
+1 Inventors' Fair
+1 Juntu Stakes
+1 Karn, the Great Creator
+1 Land Tax
+1 Leonin Arbiter
+1 Linvala, Keeper of Silence
+1 Lotus Petal
+1 Luminarch Ascension
+1 Mana Crypt
+1 Mana Vault
+1 Marsh Flats
+1 Mask of Memory
+1 Mentor of the Meek
+1 Mishra's Workshop
+1 Mother of Runes
+1 Mox Diamond
+1 Mox Opal
+1 Nykthos, Shrine to Nyx
+1 Order of the Sacred Torch
+1 Path to Exile
+1 Phyrexian Revoker
+15 Plains
+1 Prismatic Vista
+1 Ranger of Eos
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Rest in Peace
+1 Rule of Law
+1 Samurai of the Pale Curtain
+1 Sanctum Prelate
+1 Scrapyard Recombiner
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Serra Ascendant
+1 Silence
+1 Smothering Tithe
+1 Sol Ring
+1 Spirit of the Labyrinth
+1 Strip Mine
+1 Sun Titan
+1 Suture Priest
+1 Swords to Plowshares
+1 Thalia, Guardian of Thraben
+1 Thorn of Amethyst
+1 Triskelion
+1 Uba Mask
+1 Unexpectedly Absent
+1 Vryn Wingmare
+1 Walking Ballista
+1 Weathered Wayfarer
+1 Windswept Heath
+
+SIDEBOARD:
+1 Alms Collector
+1 Blind Obedience
+1 Gideon of the Trials
+1 Grasp of Fate
+1 Hallowed Moonlight
+1 Mandate of Peace
+1 Orim's Chant
+1 Salvage Scout
+1 Skyclave Apparition
+1 Smuggler's Copter

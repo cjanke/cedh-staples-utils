@@ -1,0 +1,118 @@
+STAPLES:
+2 Ancient Tomb
+2 Arbor Elf
+1 Birds of Paradise
+2 Boreal Druid
+2 Carpet of Flowers
+2 Cavern of Souls
+2 Chord of Calling
+2 Chrome Mox
+2 Crop Rotation
+2 Eldritch Evolution
+2 Elvish Mystic
+1 Emergence Zone
+2 Eternal Witness
+2 Finale of Devastation
+2 Force of Vigor
+2 Fyndhorn Elves
+2 Gaea's Cradle
+2 Gemstone Caverns
+2 Green Sun's Zenith
+1 Homeward Path
+2 Llanowar Elves
+2 Mana Crypt
+2 Mana Vault
+2 Mox Diamond
+2 Nature's Claim
+2 Oakhame Adversary
+2 Priest of Titania
+2 Reclamation Sage
+2 Sol Ring
+2 Survival of the Fittest
+2 Sylvan Library
+2 Utopia Sprawl
+2 Veil of Summer
+2 Wild Growth
+2 Worldly Tutor
+1 Lotus Petal
+1 Misty Rainforest
+1 Prismatic Vista
+1 Sensei's Divining Top
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+
+NON_STAPLES:
+2 Allosaurus Shepherd
+1 Ashaya, Soul of the Wild
+2 Autumn's Veil
+2 Beast Within
+1 Berserk
+2 Castle Garenbrig
+1 Cloudstone Curio
+1 Elvish Pioneer
+2 Elvish Visionary
+1 Fierce Empath
+1 Garruk, Primal Hunter
+2 Genesis Wave
+1 Great Oak Guardian
+2 Harmonize
+1 Hyrax Tower Scout
+1 Invigorate
+1 Karametra's Acolyte
+2 Kenrith's Transformation
+1 Kogla, the Titan Ape
+2 Marwyn, the Nurturer
+1 Might of Old Krosa
+2 Multani's Acolyte
+2 Natural Order
+2 Nykthos, Shrine to Nyx
+2 Quirion Ranger
+2 Regal Force
+1 Return of the Wildspeaker
+1 Rishkar's Expertise
+1 Scale Up
+2 Scryb Ranger
+1 Shared Summons
+32 Snow-Covered Forest
+1 Soul's Majesty
+2 Staff of Domination
+2 Summoner's Pact
+2 Temur Sabertooth
+1 Tooth and Nail
+1 Turntimber Symbiosis / Turntimber, Serpentine Wood
+2 Umbral Mantle
+1 Vines of Vastwood
+1 Vitalize
+1 Voice of Many
+2 Weird Harvest
+2 Wirewood Lodge
+2 Wirewood Symbiote
+1 Woodland Bellower
+1 Beastcaller Savant
+1 Birchlore Rangers
+1 Devoted Druid
+1 Dryad Arbor
+1 Elvish Archdruid
+1 Elvish Harbinger
+1 Elvish Reclaimer
+1 Elvish Spirit Guide
+1 Generous Patron
+1 Heart Warden
+1 Heritage Druid
+1 Joraga Treespeaker
+1 Mirri's Guile
+1 Mouth of Ronom
+1 Seeker of Skybreak
+1 Selvala, Heart of the Wilds
+1 Shamanic Revelation
+1 Sylvan Ranger
+1 Sylvan Scrying
+1 Sylvan Tutor
+1 Timberwatch Elf
+1 Turntimber, Serpentine Wood
+1 Viridian Corrupter
+1 Viridian Shaman
+1 Walking Ballista
+1 Wirewood Channeler
+1 Yisan, the Wanderer Bard

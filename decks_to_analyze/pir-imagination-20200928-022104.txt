@@ -1,0 +1,95 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Back to Basics
+1 Blast Zone
+1 Brainstorm
+1 Breeding Pool
+1 Careful Study
+1 Carpet of Flowers
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Traitors
+1 Copy Artifact
+1 Counterspell
+1 Crop Rotation
+1 Cursed Totem
+1 Cyclonic Rift
+1 Delay
+1 Dig Through Time
+1 Dramatic Reversal
+1 Emergence Zone
+1 Essence Flux
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gemstone Caverns
+1 Ghostly Flicker
+1 Gilded Drake
+1 Gitaxian Probe
+1 Grim Monolith
+1 Gush
+1 High Market
+1 Homeward Path
+3 Island
+1 Isochron Scepter
+1 Jace, Wielder of Mysteries
+1 Kinnan, Bonder Prodigy
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Mind Stone
+1 Misdirection
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Dispute
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Noxious Revival
+1 Oakhame Adversary
+1 Opt
+1 Pact of Negation
+1 Phantasmal Image
+1 Pir, Imaginative Rascal
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Regrowth
+1 Rhystic Study
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Simic Signet
+1 Siren's Ruse
+1 Snow-Covered Forest
+4 Snow-Covered Island
+1 Sol Ring
+1 Submerge
+1 Summer Bloom
+1 Swan Song
+1 Sylvan Library
+1 Talisman of Curiosity
+1 Teferi, Master of Time
+1 Timetwister
+1 Tolarian Winds
+1 Toothy, Imaginary Friend
+1 Treasure Cruise
+1 Tropical Island
+1 Veil of Summer
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Windfall
+1 Winds of Rebuke
+1 Windswept Heath
+1 Wooded Foothills

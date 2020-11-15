@@ -1,0 +1,136 @@
+STAPLES:
+2 Ancient Tomb
+2 Arcane Signet
+2 Arid Mesa
+2 Badlands
+2 Blood Crypt
+2 Bloodstained Mire
+2 Cabal Ritual
+2 Cavern of Souls
+2 Chrome Mox
+2 City of Brass
+2 Command Tower
+2 Culling the Weak
+2 Dark Ritual
+2 Deflecting Swat
+2 Demonic Tutor
+2 Diabolic Intent
+2 Dockside Extortionist
+2 Fellwar Stone
+2 Fire Covenant
+2 Forbidden Orchard
+2 Gamble
+2 Imperial Seal
+2 Lion's Eye Diamond
+2 Lotus Petal
+2 Luxury Suite
+2 Mana Confluence
+2 Mana Crypt
+1 Marsh Flats
+2 Mox Amber
+2 Mox Diamond
+2 Mox Opal
+2 Necropotence
+1 Plunge into Darkness
+2 Polluted Delta
+2 Praetor's Grasp
+1 Prismatic Vista
+2 Pyroblast
+2 Rain of Filth
+2 Red Elemental Blast
+1 Scalding Tarn
+1 Sensei's Divining Top
+2 Simian Spirit Guide
+2 Sol Ring
+1 Toxic Deluge
+2 Urborg, Tomb of Yawgmoth
+2 Vampiric Tutor
+1 Verdant Catacombs
+2 Wheel of Fortune
+1 Wooded Foothills
+1 Yawgmoth's Will
+1 Ad Nauseam
+1 Dark Confidant
+1 Entomb
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Mana Vault
+1 Phyrexian Tower
+1 Reanimate
+1 Tainted Pact
+1 Underworld Breach
+1 Wishclaw Talisman
+
+NON_STAPLES:
+2 Abrade
+1 Arcum's Astrolabe
+1 Azra Oddsmaker
+1 Bubbling Muck
+1 Chaos Warp
+2 Conspicuous Snoop
+1 Deadly Rollick
+1 Desperate Ritual
+1 Dismember
+2 Doomsday
+1 Goblin Cratermaker
+1 Goblin Matron
+2 Goblin Recruiter
+1 Goblin Sharpshooter
+2 Graven Cairns
+2 Grenzo, Dungeon Warden
+2 Grim Tutor
+1 Imperial Recruiter
+2 Imp's Mischief
+1 Inquisition of Kozilek
+2 Kiki-Jiki, Mirror Breaker
+1 Lake of the Dead
+1 Mogg Fanatic
+1 Overeager Apprentice
+1 Overmaster
+1 Priest of Gix
+1 Prismatic Lens
+1 Pyretic Ritual
+1 Rakdos Charm
+2 Rakdos Signet
+1 Recoup
+2 Rite of Flame
+1 Scroll Rack
+2 Skirk Prospector
+1 Smelt
+6 Snow-Covered Mountain
+6 Snow-Covered Swamp
+1 Splinter Twin
+2 Talisman of Indulgence
+2 Thoughtseize
+2 Torch Courier
+2 Zealous Conscripts
+1 Blackcleave Cliffs
+1 Bonus Round
+1 Cabal Therapy
+1 Cloudstone Curio
+1 Corpse Dance
+1 Dark Petition
+1 Defense Grid
+1 Dualcaster Mage
+1 Fire Prophecy
+1 Gemstone Mine
+1 Glimmervoid
+1 Goblin Engineer
+1 Goblin Welder
+1 Metallic Mimic
+1 Mindblade Render
+1 Mogg Raider
+1 Mountain
+1 Murderous Redcap
+1 Peat Bog
+1 Peer into the Abyss
+1 Priest of Urabrask
+1 Sandstone Needle
+1 Seething Song
+1 Shattering Spree
+1 Spire of Industry
+1 Springleaf Drum
+1 Sulfurous Springs
+1 Swamp
+1 Twinflame
+1 Valakut Awakening / Valakut Stoneforge

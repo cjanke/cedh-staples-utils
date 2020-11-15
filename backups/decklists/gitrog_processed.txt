@@ -1,0 +1,124 @@
+STAPLES:
+4 Abrupt Decay
+4 Ad Nauseam
+4 Ancient Tomb
+4 Assassin's Trophy
+4 Bayou
+4 Birds of Paradise
+4 Bloodstained Mire
+4 Cabal Ritual
+4 Carpet of Flowers
+4 Cavern of Souls
+4 Chrome Mox
+4 City of Brass
+2 Collector Ouphe
+4 Command Tower
+4 Crop Rotation
+4 Culling the Weak
+4 Dark Confidant
+4 Dark Ritual
+4 Deathrite Shaman
+4 Demonic Tutor
+4 Diabolic Intent
+4 Elves of Deep Shadow
+4 Elvish Mystic
+3 Emergence Zone
+4 Entomb
+4 Finale of Devastation
+3 Forbidden Orchard
+4 Fyndhorn Elves
+4 Gaea's Cradle
+4 Gemstone Caverns
+4 Green Sun's Zenith
+4 Grim Monolith
+4 Homeward Path
+4 Imperial Seal
+2 Lion's Eye Diamond
+4 Llanowar Elves
+4 Llanowar Wastes
+4 Lotus Petal
+4 Mana Confluence
+4 Mana Crypt
+4 Mana Vault
+4 Marsh Flats
+4 Misty Rainforest
+4 Mox Diamond
+3 Nature's Claim
+4 Necropotence
+2 Noxious Revival
+4 Nurturing Peatland
+4 Overgrown Tomb
+4 Phyrexian Tower
+3 Plunge into Darkness
+4 Polluted Delta
+1 Praetor's Grasp
+4 Priest of Titania
+4 Prismatic Vista
+4 Rain of Filth
+4 Sol Ring
+4 Survival of the Fittest
+4 Sylvan Library
+4 Sylvan Safekeeper
+3 Tainted Pact
+3 Urborg, Tomb of Yawgmoth
+4 Vampiric Tutor
+4 Veil of Summer
+4 Verdant Catacombs
+4 Wild Growth
+4 Windswept Heath
+4 Wooded Foothills
+4 Worldly Tutor
+3 Boreal Druid
+1 Force of Vigor
+1 Oakhame Adversary
+1 Grafdigger's Cage
+1 Reclamation Sage
+
+NON_STAPLES:
+3 Allosaurus Shepherd
+4 Autumn's Veil
+4 Bazaar of Baghdad
+4 City of Traitors
+3 Crystal Vein
+4 Dakmor Salvage
+1 Darkblast
+4 Elvish Spirit Guide
+6 Forest
+4 Golgari Grave-Troll
+2 Jeweled Lotus
+4 Joraga Treespeaker
+4 Kozilek, Butcher of Truth
+4 Lake of the Dead
+4 Life from the Loam
+3 Noose Constrictor
+4 Oblivion Crown
+2 Opposition Agent
+4 Putrid Imp
+4 Ramunap Excavator
+1 Skirge Familiar
+3 Snow-Covered Forest
+3 Snow-Covered Swamp
+4 Squandered Resources
+4 Summoner's Pact
+5 Swamp
+4 The Gitrog Monster
+3 Thoughtseize
+4 Twilight Mire
+3 Ulamog, the Infinite Gyre
+4 Wild Mongrel
+1 Blooming Marsh
+2 Cabal Pit
+3 Chains of Mephistopheles
+1 Command Beacon
+2 Dismember
+2 Fatal Push
+1 Grim Tutor
+1 Sylvan Tutor
+1 Ulcerate
+1 Undergrowth Stadium
+2 Mausoleum Secrets
+1 Duress
+1 Ebony Charm
+1 Gaea's Blessing
+1 Mindblade Render
+1 Wall of Roots

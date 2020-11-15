@@ -1,0 +1,127 @@
+STAPLES:
+2 Arid Mesa
+2 Avacyn's Pilgrim
+2 Aven Mindcensor
+2 Birds of Paradise
+2 Bloom Tender
+2 Breeding Pool
+2 Carpet of Flowers
+2 Chord of Calling
+2 City of Brass
+2 Collector Ouphe
+2 Command Tower
+1 Counterspell
+2 Cyclonic Rift
+2 Deflecting Swat
+1 Delay
+1 Destiny Spinner
+2 Dockside Extortionist
+2 Dovin's Veto
+2 Drannith Magistrate
+2 Eladamri's Call
+2 Eldritch Evolution
+1 Elvish Mystic
+2 Enlightened Tutor
+2 Exotic Orchard
+2 Fierce Guardianship
+2 Finale of Devastation
+2 Flooded Strand
+2 Forbidden Orchard
+2 Force of Will
+2 Fyndhorn Elves
+2 Gaea's Cradle
+2 Gilded Drake
+2 Hallowed Fountain
+1 Horizon Canopy
+2 Linvala, Keeper of Silence
+2 Llanowar Elves
+2 Mana Confluence
+2 Mana Crypt
+2 Mana Drain
+2 Misty Rainforest
+2 Mystic Remora
+1 Narset's Reversal
+2 Nature's Claim
+2 Neoform
+2 Noble Hierarch
+2 Noxious Revival
+1 Null Rod
+2 Oakhame Adversary
+1 Pact of Negation
+2 Polluted Delta
+1 Priest of Titania
+1 Pyroblast
+2 Rhystic Study
+2 Savannah
+2 Scalding Tarn
+1 Smothering Tithe
+2 Sol Ring
+1 Steam Vents
+2 Stomping Ground
+2 Swan Song
+1 Swords to Plowshares
+2 Sylvan Library
+2 Taiga
+2 Temple Garden
+2 Tropical Island
+2 Tundra
+1 Veil of Summer
+2 Verdant Catacombs
+2 Vexing Shusher
+2 Volcanic Island
+2 Waterlogged Grove
+1 Wild Growth
+2 Windswept Heath
+2 Wooded Foothills
+2 Yavimaya Coast
+1 Ancient Tomb
+1 Arbor Elf
+1 Brainstorm
+1 Chain of Vapor
+1 Chrome Mox
+1 Dispel
+1 Flusterstorm
+1 Gemstone Caverns
+1 Gitaxian Probe
+1 Mental Misstep
+1 Mox Diamond
+1 Ponder
+1 Preordain
+1 Reclamation Sage
+1 Red Elemental Blast
+1 Survival of the Fittest
+1 Tarnished Citadel
+1 Utopia Sprawl
+
+NON_STAPLES:
+1 Angel's Grace
+2 Birthing Pod
+2 Bruse Tarl, Boorish Herder
+2 Corridor Monitor
+2 Deafening Silence
+2 Deceiver Exarch
+2 Faeburrow Elder
+2 Felidar Guardian
+1 Flooded Grove
+2 Forest
+2 Freed from the Real
+2 Goblin Sharpshooter
+1 Insight
+2 Island
+2 Karmic Guide
+2 Kiki-Jiki, Mirror Breaker
+2 Meltdown
+1 Nature's Lore
+2 Seedborn Muse
+2 Splinter Twin
+1 Stony Silence
+1 Temur Sabertooth
+2 Thrasios, Triton Hero
+1 Three Visits
+2 Village Bell-Ringer
+1 Barrin, Master Wizard
+1 Quirion Ranger
+1 Renegade Rallier
+1 Training Grounds
+1 Yisan, the Wanderer Bard
+1 Zirda, the Dawnwaker
