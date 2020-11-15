@@ -1,0 +1,87 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Back to Basics
+1 Basalt Monolith
+1 Bazaar of Baghdad
+1 Brain Freeze
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chakram Retriever
+1 Chrome Mox
+1 City of Traitors
+1 Conjurer's Bauble
+1 Conqueror's Flail
+1 Darksteel Citadel
+1 Defense Grid
+1 Delay
+1 Dispel
+1 Dramatic Reversal
+1 Drift of Phantasms
+1 Emergence Zone
+1 Emry, Lurker of the Loch
+1 Fabricate
+1 Fatestitcher
+1 Fierce Guardianship
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gemstone Caverns
+1 Gilded Drake
+1 Gitaxian Probe
+1 Grim Monolith
+1 Hope of Ghirapur
+1 Hullbreacher
+1 Intuition
+1 Inventors' Fair
+16 Island
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Lion's Eye Diamond
+1 Lithoform Engine
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Memory Jar
+1 Mental Misstep
+1 Merchant Scroll
+1 Mesmeric Orb
+1 Minamo, School at Water's Edge
+1 Mirran Spy
+1 Miscast
+1 Misdirection
+1 Mishra's Bauble
+1 Mishra's Workshop
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Pact of Negation
+1 Phantasmal Image
+1 Ponder
+1 Reshape
+1 Rhystic Study
+1 Sea Gate Restoration
+1 Seat of the Synod
+1 Shimmer Myr
+1 Sol Ring
+1 Spell Pierce
+1 Staff of Domination
+1 Swan Song
+1 Tezzeret the Seeker
+1 The Tabernacle at Pendrell Vale
+1 Thought Scour
+1 Thousand-Year Elixir
+1 Timetwister
+1 Transmute Artifact
+1 Tribute Mage
+1 Trophy Mage
+1 Urza's Bauble
+1 Vedalken Archmage
+1 Whir of Invention
+1 Windfall
+
+

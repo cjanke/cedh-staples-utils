@@ -1,0 +1,100 @@
+1 Abrupt Decay
+1 Ancient Tomb
+1 Animate Dead
+1 Arbor Elf
+1 Arid Mesa
+1 Assassin's Trophy
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Bayou
+1 Birds of Paradise
+1 Blind Obedience
+1 Blood Artist
+1 Bloodstained Mire
+1 Brushland
+1 Buried Alive
+1 Carpet of Flowers
+1 Chrome Mox
+1 City of Brass
+1 Collector Ouphe
+1 Command Tower
+1 Dance of the Dead
+1 Dark Confidant
+1 Deafening Silence
+1 Deathrite Shaman
+1 Demonic Tutor
+1 Destiny Spinner
+1 Diabolic Intent
+1 Drannith Magistrate
+1 Earthcraft
+1 Eladamri's Call
+1 Elesh Norn, Grand Cenobite
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Enlightened Tutor
+1 Entomb
+1 Eternal Witness
+1 Ethersworn Canonist
+1 Finale of Devastation
+1 Flooded Strand
+1 Forbidden Orchard
+1 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Godless Shrine
+1 Good-Fortune Unicorn
+1 Grand Abolisher
+1 Horizon Canopy
+1 Imperial Seal
+1 Kambal, Consul of Allocation
+1 Karmic Guide
+1 Kenrith's Transformation
+1 Leonin Relic-Warder
+1 Leyline of the Void
+1 Life / Death
+1 Linvala, Keeper of Silence
+1 Lion's Eye Diamond
+1 Llanowar Elves
+1 Mana Confluence
+1 Mana Crypt
+1 Marsh Flats
+1 Misty Rainforest
+1 Mox Diamond
+1 Necromancy
+1 Necropotence
+1 Nikara, Lair Scavenger
+1 Noxious Revival
+1 Null Rod
+1 Nurturing Peatland
+1 Oakhame Adversary
+1 Overgrown Tomb
+1 Polluted Delta
+1 Prismatic Vista
+1 Razaketh, the Foulblooded
+1 Reanimate
+1 Reap
+1 Savannah
+1 Scrubland
+1 Silence
+1 Silent Clearing
+1 Smothering Tithe
+1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Squirrel Nest
+1 Stony Silence
+1 Survival of the Fittest
+1 Swamp
+1 Swords to Plowshares
+1 Sylvan Library
+1 Temple Garden
+1 Tymna the Weaver
+1 Vampiric Tutor
+1 Veil of Summer
+1 Verdant Catacombs
+1 Vilis, Broker of Blood
+1 Viscera Seer
+1 Windswept Heath
+1 Wooded Foothills
+1 Yannik, Scavenging Sentinel
+1 Yawgmoth, Thran Physician

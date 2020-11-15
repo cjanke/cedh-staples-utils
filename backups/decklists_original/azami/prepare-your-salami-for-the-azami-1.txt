@@ -1,0 +1,84 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Arcum's Astrolabe
+1 Azami, Lady of Scrolls
+1 Back to Basics
+1 Baral, Chief of Compliance
+1 Blink of an Eye
+1 Brainstorm
+1 Cavern of Souls
+1 Chrome Mox
+1 Coalition Relic
+1 Copy Artifact
+1 Counterspell
+1 Cursecatcher
+1 Cyclonic Rift
+1 Delay
+1 Dig Through Time
+1 Dispel
+1 Dramatic Reversal
+1 Fabricate
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Gitaxian Probe
+1 Glen Elendra Archmage
+1 Grim Monolith
+1 High Tide
+1 Impulse
+1 Into the Roil
+1 Isochron Scepter
+1 Jace, Vryn's Prodigy
+1 Jace, Wielder of Mysteries
+1 Jeweled Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Martyr of Frost
+1 Mental Misstep
+1 Merchant Scroll
+1 Minamo, School at Water's Edge
+1 Misdirection
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset's Reversal
+1 Narset, Parter of Veils
+1 Negate
+1 Pact of Negation
+1 Paradigm Shift
+1 Personal Tutor
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Rapid Hybridization
+1 Reality Shift
+1 Rhystic Study
+1 Sapphire Medallion
+1 Saprazzan Skerry
+1 Scalding Tarn
+1 Sea Gate Restoration
+1 Sea Gate Stormcaller
+1 Sensei's Divining Top
+1 Siren Stormtamer
+1 Snapcaster Mage
+19 Snow-Covered Island
+1 Sol Ring
+1 Spellseeker
+1 Swan Song
+1 Thassa's Oracle
+1 Timetwister
+1 Tribute Mage
+1 Trinket Mage
+1 Whir of Invention
+
+

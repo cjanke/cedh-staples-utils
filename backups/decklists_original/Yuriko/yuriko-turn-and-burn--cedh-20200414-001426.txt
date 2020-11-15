@@ -1,0 +1,89 @@
+1 Abjure
+1 Back to Basics
+1 Blinkmoth Infusion
+1 Bloodstained Mire
+1 Brainstorm
+1 Capture of Jingzhou
+1 Chain of Vapor
+1 Changeling Outcast
+1 Chrome Mox
+1 Command Tower
+1 Commandeer
+1 Cursed Totem
+1 Cyclonic Rift
+1 Deadly Rollick
+1 Demonic Consultation
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dismember
+1 Dispel
+1 Faerie Seer
+1 Fallen Shinobi
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gilded Drake
+1 Gingerbrute
+1 Grafdigger's Cage
+1 Imperial Seal
+1 Ingenious Infiltrator
+1 Intuition
+9 Island
+1 Lim-Dûl's Vault
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Marsh Flats
+1 Memnite
+1 Mental Misstep
+1 Misdirection
+1 Mistblade Shinobi
+1 Mist-Syndicate Naga
+1 Misty Rainforest
+1 Morphic Pool
+1 Mothdust Changeling
+1 Mox Amber
+1 Mox Diamond
+1 Mutavault
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Dispute
+1 Mystical Tutor
+1 Ninja of the Deep Hours
+1 Ornithopter
+1 Pact of Negation
+1 Phyrexian Walker
+1 Polluted Delta
+1 Prismatic Vista
+1 Reanimate
+1 Sakashima's Student
+1 Scalding Tarn
+1 Scheming Symmetry
+1 Scroll Rack
+1 Shizo, Death's Storehouse
+1 Sidisi's Faithful
+1 Skullsnatcher
+1 Snapcaster Mage
+1 Snuff Out
+1 Spectral Sailor
+1 Spell Pierce
+1 Spellstutter Sprite
+1 Submerge
+4 Swamp
+1 Swan Song
+1 Temporal Manipulation
+1 Temporal Mastery
+1 Temporal Trespass
+1 Tetsuko Umezawa, Fugitive
+1 Thassa's Oracle
+1 Time Warp
+1 Underground River
+1 Underground Sea
+1 Universal Automaton
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Watery Grave
+1 Wingcrafter
+1 Yuriko, the Tiger's Shadow

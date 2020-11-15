@@ -1,0 +1,96 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Ash Barrens
+1 Aven Mindcensor
+1 Azorius Signet
+1 Back to Basics
+1 Blood Moon
+1 Bloodstained Mire
+1 Brain Freeze
+1 Brainstorm
+1 Brallin, Skyshark Rider
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chrome Mox
+1 Command Tower
+1 Counterspell
+1 Curiosity
+1 Cursed Totem
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Delay
+1 Dispel
+1 Dockside Extortionist
+1 Dovin's Veto
+1 Drannith Magistrate
+1 Enlightened Tutor
+1 Faithless Looting
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gamble
+1 Ghostly Pilferer
+1 Gilded Drake
+1 Gitaxian Probe
+1 Grim Monolith
+1 Hallowed Fountain
+1 Intuition
+7 Island
+1 Izzet Signet
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Magus of the Moon
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Misty Rainforest
+2 Mountain
+1 Mox Diamond
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Ophidian Eye
+1 Pact of Negation
+2 Plains
+1 Plateau
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Pyroclasm
+1 Red Elemental Blast
+1 Rhystic Study
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Sevinne's Reclamation
+1 Shabraz, the Skyshark
+1 Silence
+1 Smothering Tithe
+1 Sol Ring
+1 Steam Vents
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Timetwister
+1 Tundra
+1 Underworld Breach
+1 Verity Circle
+1 Volcanic Island
+1 Wear / Tear
+1 Wheel of Fortune
+1 Windfall
+1 Windswept Heath
+1 Wooded Foothills
+
+SIDEBOARD:
+1 Careful Study
+1 Tandem Lookout

@@ -1,0 +1,100 @@
+1 Abrupt Decay
+1 Ad Nauseam
+1 Ancient Tomb
+1 Arbor Elf
+1 Arid Mesa
+1 Assassin's Trophy
+1 Autumn's Veil
+1 Badlands
+1 Bayou
+1 Birds of Paradise
+1 Blood Crypt
+1 Bloodstained Mire
+1 Carpet of Flowers
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Crop Rotation
+1 Curse of Opulence
+1 Dark Confidant
+1 Dark Ritual
+1 Deathrite Shaman
+1 Deflecting Swat
+1 Demonic Tutor
+1 Destiny Spinner
+1 Diabolic Intent
+1 Dockside Extortionist
+1 Eldritch Evolution
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Emergence Zone
+1 Entomb
+1 Eternal Witness
+1 Exploration
+1 Finale of Devastation
+1 Fire Covenant
+1 Food Chain
+1 Forbidden Orchard
+1 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gamble
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Grim Tutor
+1 Imperial Seal
+1 Imp's Mischief
+1 Kenrith's Transformation
+1 Korvold, Fae-Cursed King
+1 Llanowar Elves
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Vault
+1 Marsh Flats
+1 Mayhem Devil
+1 Misty Rainforest
+1 Mox Diamond
+1 Nature's Claim
+1 Necropotence
+1 Noxious Revival
+1 Nurturing Peatland
+1 Oakhame Adversary
+1 Orcish Lumberjack
+1 Overgrown Tomb
+1 Plunge into Darkness
+1 Polluted Delta
+1 Praetor's Grasp
+1 Priest of Titania
+1 Prismatic Vista
+1 Pyroblast
+1 Rain of Filth
+1 Reap
+1 Red Elemental Blast
+1 Scalding Tarn
+1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Spire Garden
+1 Squandered Resources
+1 Squee, the Immortal
+1 Stomping Ground
+1 Survival of the Fittest
+1 Sylvan Library
+1 Sylvan Safekeeper
+1 Taiga
+1 Tainted Pact
+1 Temur Sabertooth
+1 Tinder Wall
+1 Underworld Breach
+1 Vampiric Tutor
+1 Veil of Summer
+1 Verdant Catacombs
+1 Vexing Shusher
+1 Village Rites
+1 Wheel of Fortune
+1 Windswept Heath
+1 Wishclaw Talisman
+1 Wooded Foothills
+1 Worldly Tutor
+1 Wrenn and Six

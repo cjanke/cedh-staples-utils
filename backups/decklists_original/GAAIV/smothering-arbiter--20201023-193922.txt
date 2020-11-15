@@ -1,0 +1,90 @@
+1 Ancient Tomb
+1 Approach of the Second Sun
+1 Arcane Signet
+1 Arid Mesa
+1 Aven Mindcensor
+1 Azorius Signet
+1 Back to Basics
+1 Brainstorm
+1 Cephalid Coliseum
+1 Chrome Mox
+1 City of Traitors
+1 Coldsteel Heart
+1 Command Tower
+1 Consecrated Sphinx
+1 Copy Artifact
+1 Counterspell
+1 Crystal Vein
+1 Cursed Totem
+1 Cyclonic Rift
+1 Damping Sphere
+1 Delay
+1 Dispel
+1 Dovin's Veto
+1 Drannith Magistrate
+1 Enlightened Tutor
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Gilded Drake
+1 Gitaxian Probe
+1 Grand Arbiter Augustin IV
+1 Grim Monolith
+1 Hallowed Fountain
+1 Helm of Obedience
+1 Humility
+1 Hushbringer
+1 Idyllic Tutor
+1 Impulse
+7 Island
+1 Jeweled Amulet
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Mana Leak
+1 Mana Vault
+1 Mangara, the Diplomat
+1 Marsh Flats
+1 Mental Misstep
+1 Miscast
+1 Misty Rainforest
+1 Mox Diamond
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Negate
+5 Plains
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Ravages of War
+1 Rest in Peace
+1 Rhystic Study
+1 Scalding Tarn
+1 Sea Gate Restoration / Sea Gate, Reborn
+1 Sensei's Divining Top
+1 Silence
+1 Smothering Tithe
+1 Sol Ring
+1 Spell Pierce
+1 Sphere of the Suns
+1 Sphinx's Revelation
+1 Stasis
+1 Steal Enchantment
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Tezzeret the Seeker
+1 Timetwister
+1 Transmute Artifact
+1 Tundra
+1 Verity Circle
+1 Windfall
+1 Windswept Heath

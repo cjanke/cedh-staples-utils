@@ -1,0 +1,77 @@
+1 Aetherflux Reservoir
+1 Ancient Tomb
+1 Arcane Signet
+1 Baral, Chief of Compliance
+1 Brainstorm
+1 Candelabra of Tawnos
+1 Chain of Vapor
+1 Chrome Mox
+1 Copy Artifact
+1 Counterspell
+1 Cyclonic Rift
+1 Delay
+1 Dig Through Time
+1 Diminishing Returns
+1 Dispel
+1 Dramatic Reversal
+1 Echo of Eons
+1 Enter the Infinite
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gilded Drake
+1 Gitaxian Probe
+1 Grim Monolith
+1 High Tide
+1 Impulse
+1 Intuition
+1 Isochron Scepter
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Mind's Desire
+1 Misty Rainforest
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Narset's Reversal
+1 Obsessive Search
+1 Opt
+1 Pact of Negation
+1 Palinchron
+1 Personal Tutor
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Recurring Insight
+1 Rhystic Study
+1 Sapphire Medallion
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Sleight of Hand
+1 Snap
+24 Snow-Covered Island
+1 Sol Ring
+1 Spell Pierce
+1 Spellseeker
+1 Submerge
+1 Swan Song
+1 Time Spiral
+1 Timetwister
+1 Transmute Artifact
+1 Turnabout
+1 Windfall

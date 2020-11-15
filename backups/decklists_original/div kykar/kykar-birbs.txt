@@ -1,0 +1,95 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Azorius Signet
+1 Bloodstained Mire
+1 Brainstorm
+1 Cascade Bluffs
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Copy Artifact
+1 Counterspell
+1 Cyclonic Rift
+1 Delay
+1 Dispel
+1 Divergent Transformations
+1 Dovin's Veto
+1 Dramatic Reversal
+1 Elsha of the Infinite
+1 Enlightened Tutor
+1 Exotic Orchard
+1 Fellwar Stone
+1 Flame Sweep
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Will
+1 Frantic Search
+1 Future Sight
+1 Gamble
+1 Gitaxian Probe
+1 Goblin Bombardment
+1 Grim Monolith
+1 Hallowed Fountain
+1 High Tide
+1 Isochron Scepter
+1 Izzet Signet
+1 Kindred Discovery
+1 Kykar, Wind's Fury
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Merchant Scroll
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset's Reversal
+1 Narset, Parter of Veils
+1 Opt
+1 Pact of Negation
+1 Plateau
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Pyroblast
+1 Recurring Insight
+1 Red Elemental Blast
+1 Rest in Peace
+1 Rhystic Study
+1 Rough
+1 Scalding Tarn
+1 Sea of Clouds
+1 Sensei's Divining Top
+1 Silence
+1 Skullclamp
+1 Smothering Tithe
+1 Snap
+8 Snow-Covered Island
+1 Snow-Covered Plains
+1 Sol Ring
+1 Spellseeker
+1 Steam Vents
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Time Spiral
+1 Timetwister
+1 Tundra
+1 Verity Circle
+1 Volcanic Island
+1 Wear
+1 Wheel of Fortune
+1 Windfall
+1 Windswept Heath
+1 Wooded Foothills
+
+

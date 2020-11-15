@@ -1,0 +1,95 @@
+1 Allosaurus Shepherd
+1 Ancient Tomb
+1 Arbor Elf
+1 Birchlore Rangers
+1 Birds of Paradise
+1 Boreal Druid
+1 Botanical Sanctum
+1 Brainstorm
+1 Breeding Pool
+1 Carpet of Flowers
+1 Cavern of Souls
+1 Chrome Mox
+1 City of Brass
+1 Collector Ouphe
+1 Command Tower
+1 Counterspell
+1 Crop Rotation
+1 Delay
+1 Devoted Druid
+1 Dispel
+1 Elvish Mystic
+1 Finale of Devastation
+1 Flooded Grove
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Will
+6 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Gilded Drake
+1 Glamerdye
+1 Glimpse of Nature
+1 Green Sun's Zenith
+1 Grim Monolith
+1 Heritage Druid
+1 Island
+1 Joraga Treespeaker
+1 Kinnan, Bonder Prodigy
+1 Kiora's Follower
+1 Llanowar Elves
+1 Llanowar Tribe
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Leak
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Mind Bend
+1 Misty Rainforest
+1 Momir Vig, Simic Visionary
+1 Mystic Remora
+1 Mystical Tutor
+1 Nature's Claim
+1 Negate
+1 Neoform
+1 Nettle Sentinel
+1 Null Rod
+1 Painter's Servant
+1 Phantasmal Image
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Preordain
+1 Priest of Titania
+1 Prismatic Vista
+1 Quirion Ranger
+1 Reclamation Sage
+1 Riftsweeper
+1 Scalding Tarn
+1 Sidisi's Faithful
+1 Sleight of Mind
+1 Sol Ring
+1 Somberwald Sage
+1 Spellseeker
+1 Swan Song
+1 Sylvan Library
+1 Temur Sabertooth
+1 Trait Doctoring
+1 Tropical Island
+1 Utopia Sprawl
+1 Veil of Summer
+1 Verdant Catacombs
+1 Vizier of the Menagerie
+1 Waterlogged Grove
+1 Whim of Volrath
+1 Wild Growth
+1 Winds of Rebuke
+1 Windswept Heath
+1 Wirewood Symbiote
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Coast

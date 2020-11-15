@@ -1,0 +1,91 @@
+1 Academy Ruins
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Aven Mindcensor
+1 Azor, the Lawbringer
+1 Azorius Signet
+1 Basalt Monolith
+1 Blue Sun's Zenith
+1 Chain of Vapor
+1 Chrome Mox
+1 Command Tower
+1 Cursed Totem
+1 Cyclonic Rift
+1 Delay
+1 Dovin's Veto
+1 Dramatic Reversal
+1 Drannith Magistrate
+1 Emergency Powers
+1 Enlightened Tutor
+1 Fabricate
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Finale of Revelation
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Grand Arbiter Augustin IV
+1 Grim Monolith
+1 Hallowed Fountain
+1 Heliod, Sun-Crowned
+1 Inventors' Fair
+8 Island
+1 Isochron Scepter
+1 Jeweled Amulet
+1 Karn, the Great Creator
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Marsh Flats
+1 Merchant Scroll
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Gate
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset Transcendent
+1 Narset, Parter of Veils
+1 Nexus of Fate
+1 Nimbus Maze
+1 Pact of Negation
+3 Plains
+1 Polluted Delta
+1 Pongify
+1 Power Artifact
+1 Prairie Stream
+1 Prismatic Vista
+1 Reliquary Tower
+1 Rest in Peace
+1 Rhystic Study
+1 Rings of Brighthearth
+1 Scalding Tarn
+1 Sea of Clouds
+1 Sensei's Divining Top
+1 Silence
+1 Smothering Tithe
+1 Sol Ring
+1 Sphinx's Revelation
+1 Stroke of Genius
+1 Supreme Verdict
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Time Raveler
+1 Tezzeret the Seeker
+1 Tidespout Tyrant
+1 Transmute Artifact
+1 Tribute Mage
+1 Trickbind
+1 Trinket Mage
+1 Tundra
+1 Venser, the Sojourner
+1 Verity Circle
+1 Walking Ballista
+1 Whir of Invention
+1 Windswept Heath

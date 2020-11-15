@@ -11,3 +11,7 @@ These counts are stored as `<name>_processed.txt`. The directory also contains t
 ## `decklists_processed_condensed/`
 
 Same as `decklists/`, except manually changed the count to 1 for each card in `<name>_processed.txt` files, to prevent massive overcounting when trying to get an estimate on how many cards of each we need.
+
+## `decklists_original/`
+
+Decks downloaded from cedh decklist database (2020-11-07), all alternate versions included (stored in directories).

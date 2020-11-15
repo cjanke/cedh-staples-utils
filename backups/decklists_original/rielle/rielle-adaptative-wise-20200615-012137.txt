@@ -1,0 +1,99 @@
+1 Abrade
+1 Ancient Tomb
+1 Arcane Signet
+1 Back to Basics
+1 Baral, Chief of Compliance
+1 Bazaar of Baghdad
+1 Blood Moon
+1 Brain Freeze
+1 Breakthrough
+1 Burning Inquiry
+1 Careful Study
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Codex Shredder
+1 Command Tower
+1 Copy Artifact
+1 Cursed Totem
+1 Cyclonic Rift
+1 Dack Fayden
+1 Deflecting Swat
+1 Dig Through Time
+1 Dispel
+1 Dockside Extortionist
+1 Dramatic Reversal
+1 Faithless Looting
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Fiery Islet
+1 Firestorm
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Gamble
+1 Gemstone Caverns
+1 Gilded Drake
+1 Gitaxian Probe
+1 Homeward Path
+1 Inventors' Fair
+10 Island
+1 Isochron Scepter
+1 Izzet Charm
+1 Izzet Signet
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Magus of the Moon
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Misdirection
+1 Misty Rainforest
+1 Mountain
+1 Mox Amber
+1 Mox Diamond
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Narset's Reversal
+1 Polluted Delta
+1 Ponder
+1 Prismatic Vista
+1 Pyroblast
+1 Pyroclasm
+1 Recall
+1 Red Elemental Blast
+1 Rhystic Study
+1 Rielle, the Everwise
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Sol Ring
+1 Steam Vents
+1 Swan Song
+1 Talisman of Creativity
+1 Timetwister
+1 Tolarian Winds
+1 Turbulent Dreams
+1 Underworld Breach
+1 Volcanic Island
+1 Wheel of Fortune
+1 Windfall
+1 Winds of Rebuke
+
+SIDEBOARD:
+1 Bonus Round
+1 Pact of Negation
+1 Preordain
+1 Snap
+1 Spell Pierce
+1 Treasure Cruise

@@ -1,0 +1,100 @@
+1 Abandon Reason
+1 Abrade
+1 Ad Nauseam
+1 Alms of the Vein
+1 Anje Falkenrath
+1 Anje's Ravager
+1 Arcane Signet
+1 Arid Mesa
+1 Asylum Visitor
+1 Avacyn's Judgment
+1 Badlands
+1 Big Game Hunter
+1 Blood Crypt
+1 Blood Pet
+1 Bloodhall Priest
+1 Bloodmad Vampire
+1 Bloodstained Mire
+1 Burning Inquiry
+1 Cabal Ritual
+1 Call to the Netherworld
+1 Cavern of Souls
+1 Chrome Mox
+1 Command Tower
+1 Culling the Weak
+1 Dark Confidant
+1 Dark Ritual
+1 Deflecting Swat
+1 Demonic Consultation
+1 Demonic Tutor
+1 Distemper of the Blood
+1 Dockside Extortionist
+1 Dualcaster Mage
+1 Duress
+1 Exotic Orchard
+1 Faithless Looting
+1 Fellwar Stone
+1 Fiery Temper
+1 Forbidden Orchard
+1 Gamble
+1 Gemstone Mine
+1 Grave Scrabbler
+1 Graven Cairns
+1 Grinding Station
+1 Ichor Slick
+1 Imperial Seal
+1 Insatiable Gorgers
+1 Jeweled Amulet
+1 Jeweled Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Luxury Suite
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Vault
+1 Marsh Flats
+1 Mausoleum Secrets
+1 Mountain
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Murderous Compulsion
+1 Opposition Agent
+1 Peat Bog
+1 Polluted Delta
+1 Praetor's Grasp
+1 Prismatic Vista
+1 Psychotic Episode
+1 Pyroblast
+1 Rain of Filth
+1 Rakdos Signet
+1 Red Elemental Blast
+1 Rite of Flame
+1 Sandstone Needle
+1 Scalding Tarn
+1 Senseless Rage
+1 Shadow of the Grave
+1 Shadowblood Ridge
+1 Simian Spirit Guide
+1 Skirk Prospector
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Songs of the Damned
+1 Stensia Masquerade
+1 Stitcher's Supplier
+1 Strength of Lunacy
+1 Stromkirk Occultist
+1 Sulfurous Springs
+1 Swamp
+1 Tainted Pact
+1 Talisman of Indulgence
+1 Thoughtseize
+1 Twinflame
+1 Underworld Breach
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Wheel of Fortune
+1 Wishclaw Talisman
+1 Wooded Foothills

@@ -1,0 +1,87 @@
+1 Aether Tradewinds
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Aven Mindcensor
+1 Azorius Signet
+1 Back to Basics
+1 Brainstorm
+1 Capture of Jingzhou
+1 Chrome Mox
+1 Command Tower
+1 Copy Artifact
+1 Counterbalance
+1 Counterspell
+1 Cryptic Command
+1 Cursed Totem
+1 Delay
+1 Dig Through Time
+1 Disenchant
+1 Dispel
+1 Dovin's Veto
+1 Drannith Magistrate
+1 Enlightened Tutor
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gilded Drake
+1 Gitaxian Probe
+1 Hallowed Fountain
+1 Homeward Path
+1 Impulse
+1 Intuition
+13 Island
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Merchant Scroll
+1 Mind Stone
+1 Misdirection
+1 Misty Rainforest
+1 Mox Diamond
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Dispute
+1 Mystical Tutor
+1 Negate
+1 Opt
+1 Personal Tutor
+1 Phantasmal Image
+2 Plains
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Rhystic Study
+1 Sapphire Medallion
+1 Scalding Tarn
+1 Sea of Clouds
+1 See the Truth
+1 Sensei's Divining Top
+1 Serum Visions
+1 Sleight of Hand
+1 Sol Ring
+1 Spellseeker
+1 Steal Enchantment
+1 Sublime Exhalation
+1 Sunscape Familiar
+1 Supreme Verdict
+1 Swan Song
+1 Swords to Plowshares
+1 Taigam, Ojutai Master
+1 Talisman of Progress
+1 Temporal Manipulation
+1 Time Warp
+1 Tolaria West
+1 Tragic Lesson
+1 Treasure Cruise
+1 Tundra
+1 Windswept Heath
+1 Wrath of God
